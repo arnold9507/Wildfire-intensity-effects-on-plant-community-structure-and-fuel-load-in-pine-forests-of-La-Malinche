@@ -1,0 +1,3 @@
+Variable,Unburn,Burn,Statistical test,p value
+Heigth (m),13 [11],10 [13.5],Wilcoxon’s test,0.423
+DBH (cm),15.3 [16.1],15.0 [34.9],Wilcoxon’s test,0.34

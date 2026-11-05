@@ -1,0 +1,17 @@
+Category,Class,Type,p_shapiro
+Fine woody debris,1-h (0-0.6 cm),Unburn,0.019
+,1-h (0-0.6 cm),Burn,0.013
+,10-h (0.6-2.5 cm),Unburn,0.122
+,10-h (0.6-2.5 cm),Burn,0.397
+,100-h (2.5-8 cm),Unburn,0.0819
+,100-h (2.5-8 cm),Burn,0.288
+,Fine woody debris,Unburn,0.433
+,Fine woody debris,Burn,0.856
+Coarse woody debris,1000-h sanos (> 8 cm),Unburn,<0.001
+,1000-h sanos (> 8 cm),Burn,<0.001
+,Total coarse woody debris,Unburn,<0.001
+,Total coarse woody debris,Burn,0.006
+Surface ,Litter,Unburn,0.012
+,Litter,Burn,0.022
+,Total fuel load,Unburn,0.028
+,Total fuel load,Burn,0.031

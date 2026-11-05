@@ -1,0 +1,10 @@
+Category,Class,Unburn,Burn,Statistical test,p value
+Fine woody debris,1-h (0-0.6 cm),0.044 [0.265],177 [0.221],Wilcoxon’s test,0.204
+,10-h (0.6-2.5 cm),0.612 ± 0.187,2.14 ± 0.484,Welch's t-test,0.014
+,100-h (2.5-8 cm),1.40 ± 0.399,2.80 ± 0.634,Welch's t-test,0.083
+,Fine woody debris,2.16 ± 0.506,5.19 ± 0.506,Welch's t-test,0.005
+Coarse woody debris,1000-h sound (> 8 cm),0 [0.029],0.0296 [0.029],Wilcoxon’s test,0.036
+,1000-h rotten (> 8 cm),0 [0],0 [0.022],Wilcoxon’s test,0.205
+,Total 1000-hour fuel load,0 [0.029],0.0296 [0.074],Wilcoxon’s test,0.013
+Surface,Litter,10.9 [10.9 ],10.9 [7.26],Wilcoxon’s test,0.564
+,Total fuel load,14.6 [11.5],"16.2 [6,18]",Wilcoxon’s test,0.73
