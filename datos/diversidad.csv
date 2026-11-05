@@ -1,0 +1,93 @@
+parcela,year,morfo,abund,nombre_cientifico,plot
+B1,2022,hoja dentada,1,ageratina glabrata,2022B1
+B1,2022,hola paleada,18,stevia sp,2022B1
+B1,2022,lobulada,4,roldana candicans,2022B1
+B1,2022,espinas,1,cirsium sp,2022B1
+B1,2022,5 puntas,3,baccharis conferta,2022B1
+UB1,2025,lobulada,6,roldana candicans,2025UB1
+B3,2025,lanceolada,23,barkleyanthus,2025B3
+B3,2025,hoja dentada,12,ageratina glabrata,2025B3
+B3,2025,apice rojo,1,salix paradoxa,2025B3
+B3,2025,estambres ext,4,ageratina pazcuarensis,2025B3
+UB3,2025,solanaceae,1,solanum nigrescens,2025UB3
+UB3,2025,estambres ext,3,ageratina pazcuarensis,2025UB3
+UB3,2025,apice rojo,1,salix paradoxa,2025UB3
+UB3,2025,hoja redonda,2,symphoricarpos microphyllus,2025UB3
+UB3,2025,flor roja,6,salvia elegans,2025UB3
+UB3,2025,lanza,1,ageratina mairetiana,2025UB3
+UB3,2025,flor tricomas,5, sigesbeckia jorulensis,2025UB3
+B3,2022,lanza,3,ageratina mairetiana,2022B3
+B3,2022,lobulada,5,roldana candicans,2022B3
+B3,2022,5 puntas,2,baccharis conferta,2022B3
+B3,2022,apice patron,1,quercus laoriana,2022B3
+B3,2022,estambres ext,2,ageratina pazcuarensis,2022B3
+B3,2022,hoja redonda,8,symphoricarpos microphyllus,2022B3
+UB3,2022,lobulada,5,roldana candicans,2022UB3
+UB3,2022,5 puntas,1,baccharis conferta,2022UB3
+UB3,2022,solanaceae,1,solanum nigrescens,2022UB3
+UB3,2022,estambres ext,10,ageratina pazcuarensis,2022UB3
+B3,2019,lobulada,16,roldana candicans,2019B3
+B3,2019,hoja mate,3,salic paradoxa,2019B3
+B3,2019,estambres ext,4,ageratina pazcuarensis,2019B3
+B3,2019,lamiaceae,2,cunila lythrifolia,2019B3
+B3,2019,flor pendula,1,brickellia nutanticeps,2019B3
+UB3,2019,lobulada,5,roldana candicans,2019UB3
+UB3,2019,5 puntas,1,baccharis conferta,2019UB3
+UB3,2019,solanaceae,1,solanum nigrescens,2019UB3
+UB3,2019,estambres ext,10,ageratina pazcuarensis,2019UB3
+B1,2025,lanza,30,ageratina mairetiana,2025B1
+B1,2025,"tallo rojo, apice dentado",1,salix paradoxa,2025B1
+B1,2025,peciolo acanalado,1,ageratina mairetiana,2025B1
+UB1,2025,lanza,25,ageratina mairetiana,2025UB1
+UB1,2025,5 puntas,1,baccharis conferta,2025UB1
+UB1,2025,pino,2,pinus psudostrobila,2025UB1
+B1,2019,Fruto-hoja brillante,8,comarostaphylis discolor,2019B1
+B1,2019,corteza,7,salix paradoxa,2019B1
+B1,2019,lanza,15,ageratina mairetiana,2019B1
+B1,2019,tallo patron,3,ageratina mairetiana,2019B1
+B1,2019,5 puntas,11,baccharis conferta,2019B1
+B1,2019,hoja redonda,2,symphoricarpos microphyllus,2019B1
+B1,2019,hoja higuera,1,roldana angulifolia,2019B1
+B1,2019,estambres ext,1,ageratina pazcuarensis,2019B1
+B1,2019,hoja paleada,1,stevia sp,2019B1
+UB1,2019,lanza,12,ageratina mairetiana,2019UB1
+UB1,2019,pino,4,pinus psudostrobila,2019UB1
+UB1,2019,estambres ext,2,ageratina pazcuarensis,2019UB1
+UB1,2019,frutos verdes,2,penstemon roseus,2019UB1
+UB1,2019,5 puntas,2,baccharis conferta,2019UB1
+UB1,2019,espinas,1,cirsium sp,2019UB1
+B1,2025,5 puntas,5,baccharis conferta,2025B1
+B1,2025,estambres ext,2,ageratina pazcuarensis,2025B1
+B1,2025,lanza,7,ageratina mairetiana,2025B1
+B1,2025,lobulada,9,roldana candicans,2025B1
+B1,2025,pino,1,pinus psudostrobila,2025B1
+UB1,2025,lanza,5,ageratina mairetiana,2025UB1
+UB1,2025,hoja redonda,9,symphoricarpos microphyllus,2025UB1
+UB1,2025,5 puntas,7,baccharis conferta,2025UB1
+UB1,2025,hoja redonda,5,symphoricarpos microphyllus,2025UB1
+UB1,2025,corteza,3,salix paradoxa,2025UB1
+B2,2019,lanza,17,ageratina mairetiana,2019B2
+B2,2019,5 puntas,12,baccharis conferta,2019B2
+B2,2019,hoja redonda,8,symphoricarpos microphyllus,2019B2
+B2,2019,pino,3,pinus psudostrobila,2019B2
+B2,2019,lobulada,7,roldana candicans,2019B2
+UB2,2019,lobulada,5,roldana candicans,2019UB2
+UB2,2019,5 puntas,4,baccharis conferta,2019UB2
+UB2,2019,estambres ext,3,ageratina pazcuarensis,2019UB2
+UB2,2019,lanza,4,ageratina mairetiana,2019UB2
+UB2,2019,lobulada,6,roldana candicans,2019UB2
+B3,2022,lanza,42,ageratina mairetiana,2022B3
+B3,2022,hoja higuera,36,roldana angulifolia,2022B3
+B3,2022,hoja paleada,2,stevia sp,2022B3
+B3,2022,apice rojo,4,salix paradoxa,2022B3
+B3,2022,lobulada,2,roldana candicans,2022B3
+B3,2022,peluda,2,roldana barba-johannis,2022B3
+B3,2022,estambres ext,6,ageratina pazcuarensis,2022B3
+B3,2022,hoja redonda,1,symphoricarpos microphyllus,2022B3
+UB3,2022,5 puntas,1,baccharis conferta,2022UB3
+UB3,2022,hoja redonda,7,baccharis conferta,2022UB3
+UB3,2022,hoja paleada,2,stevia sp,2022UB3
+UB3,2022,lanza,4,ageratina mairetiana,2022UB3
+UB3,2022,estambres ext,1,ageratina pazcuarensis,2022UB3
+UB3,2022,lobulada,4,roldana candicans,2022UB3
+UB3,2022,brillante,1,alnus jorulensis,2022UB3

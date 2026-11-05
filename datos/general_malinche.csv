@@ -1,0 +1,991 @@
+ESTADO,"MUNICIPIO,C,80",causa,fecha_inicio,fecha_fin,tipo_incen,area,tip_veg
+Puebla,Puebla,Vandalismo,2019-02-20,2019-02-20,Superficial,"7,65",Bosque de Pino - BP
+Puebla,Tepatlaxco de Hidalgo,Vandalismo,2019-04-26,2019-04-26,Superficial,"1,9",Bosque de Pino - BP
+Puebla,Puebla,Hornos de carbon,2019-03-29,2019-03-29,Superficial,1,Bosque de Pino - BP
+Puebla,Tepatlaxco de Hidalgo,Quema para preparacion de siembra,2019-04-06,2019-04-06,Superficial,"1,28",Bosque de Pino - BP
+Puebla,Tepatlaxco de Hidalgo,Vandalismo,2019-04-07,2019-04-07,Superficial,"3,07",Bosque de Pino - BP
+Puebla,Tepatlaxco de Hidalgo,Quema para preparacion de siembra,2019-04-09,2019-04-09,Superficial,2,Bosque de Pino - BP
+Puebla,Puebla,Quema para pastoreo,2019-04-11,2019-04-11,Superficial,2,Bosque de Pino - BP
+Puebla,Tepatlaxco de Hidalgo,Ninguna / No aplica,2019-03-03,2019-03-03,Superficial,3,Bosque de Pino - BP
+Puebla,Puebla,Fogatas de paseantes,2019-01-01,2019-01-01,Superficial,"12,6",Bosque de Pino - BP
+Puebla,Puebla,Quema para pastoreo,2019-03-04,2019-03-04,Superficial,"0,5",Bosque de Pino - BP
+Puebla,Puebla,Quema para preparacion de siembra,2019-01-21,2019-01-21,Superficial,2,Bosque de Pino - BP
+Puebla,Tepatlaxco de Hidalgo,Vandalismo,2019-03-08,2019-03-08,Superficial,3,Bosque de Pino - BP
+Puebla,Tepatlaxco de Hidalgo,Vandalismo,2019-02-06,2019-02-07,Superficial,"31,52",Bosque de Pino - BP
+Puebla,Puebla,Vandalismo,2019-04-10,2019-04-10,Superficial,"1,5",Bosque de Pino - BP
+Puebla,Tepatlaxco de Hidalgo,Vandalismo,2019-03-22,2019-03-22,Superficial,"2,5",Bosque de Pino - BP
+Puebla,Tepatlaxco de Hidalgo,Vandalismo,2019-04-12,2019-04-13,Superficial,"27,6",Bosque de Pino - BP
+Puebla,Tepatlaxco de Hidalgo,Vandalismo,2019-03-25,2019-03-25,Superficial,1,Pastizal Natural - PN
+Tlaxcala,Chiautempan,Ninguna / No aplica,2019-02-05,2019-02-05,Superficial,4,Bosque de Pino - BP
+Tlaxcala,Chiautempan,Ninguna / No aplica,2019-02-14,2019-02-14,Superficial,4,Bosque de Pino - BP
+Tlaxcala,Ixtenco,Vandalismo,2019-02-18,2019-02-18,Superficial,"80,05",Bosque de Pino - BP
+Tlaxcala,Ixtenco,Quema para preparacion de siembra,2019-02-19,2019-02-19,Superficial,"21,4",Bosque de Pino - BP
+Tlaxcala,Chiautempan,Quema para preparacion de siembra,2019-02-21,2019-02-21,Superficial,"1,5",Bosque de Pino - BP
+Tlaxcala,Chiautempan,Quema para preparacion de siembra,2019-02-23,2019-02-23,Superficial,15,Bosque de Pino - BP
+Tlaxcala,Mazatecochco de Jose Maria Morelos,Quema para preparacion de siembra,2019-02-27,2019-02-27,Superficial,3,Bosque de Pino - BP
+Tlaxcala,Chiautempan,Quema para preparacion de siembra,2019-02-28,2019-02-28,Superficial,8,Bosque de Pino - BP
+Tlaxcala,Huamantla,Vandalismo,2019-03-02,2019-03-02,Superficial,4,Bosque de Pino - BP
+Tlaxcala,Chiautempan,Quema para preparacion de siembra,2019-03-03,2019-03-03,Superficial,4,Pastizal Natural - PN
+Tlaxcala,Chiautempan,Vandalismo,2019-03-03,2019-03-03,Superficial,"1,5",Bosque de Pino - BP
+Tlaxcala,Mazatecochco de Jose Maria Morelos,Quema para preparacion de siembra,2019-03-03,2019-03-03,Superficial,4,Bosque de Pino - BP
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Vandalismo,2019-03-05,2019-03-05,Superficial,"31,8",Bosque de Pino - BP
+Tlaxcala,Chiautempan,Quema para preparacion de siembra,2019-03-07,2019-03-07,Superficial,3,Bosque de Pino - BP
+Tlaxcala,Chiautempan,Quema para preparacion de siembra,2019-03-08,2019-03-08,Superficial,5,Bosque de Pino - BP
+Tlaxcala,Contla de Juan Cuamatzi,Quema para preparacion de siembra,2019-03-09,2019-03-09,Superficial,4,Bosque de Pino - BP
+Tlaxcala,Teolocholco,Quema para preparacion de siembra,2019-03-11,2019-03-11,Superficial,4,Bosque de Pino - BP
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Vandalismo,2019-03-12,2019-03-12,Superficial,"49,6",Bosque de Pino - BP
+Tlaxcala,San Francisco Tetlanohcan,Vandalismo,2019-03-11,2019-03-11,Superficial,4,Bosque de Pino - BP
+Tlaxcala,Chiautempan,Vandalismo,2019-03-12,2019-03-12,Superficial,"1,5",Bosque de Pino - BP
+Tlaxcala,Teolocholco,Quema para preparacion de siembra,2019-03-12,2019-03-12,Superficial,4,Bosque de Pino - BP
+Tlaxcala,Contla de Juan Cuamatzi,Quema para preparacion de siembra,2019-03-18,2019-03-18,Superficial,4,Bosque de Pino - BP
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Vandalismo,2019-03-19,2019-03-19,Superficial,"4,4",Bosque de Pino - BP
+Tlaxcala,Huamantla,Quema para pastoreo,2019-03-19,2019-03-19,Superficial,2,Bosque de Pino - BP
+Tlaxcala,Teolocholco,Quema para preparacion de siembra,2019-03-20,2019-03-20,Superficial,4,Bosque de Pino - BP
+Tlaxcala,Chiautempan,Quema para preparacion de siembra,2019-03-24,2019-03-24,Superficial,"8,9",Bosque de Pino - BP
+Tlaxcala,San Jose Teacalco,Quema para preparacion de siembra,2019-03-25,2019-03-25,Superficial,2,Bosque de Encino-Pino - BQP
+Tlaxcala,Teolocholco,Quema para preparacion de siembra,2019-03-25,2019-03-25,Superficial,2,Bosque de Pino-Encino - BPQ
+Tlaxcala,Huamantla,Vandalismo,2019-03-25,2019-03-25,Superficial,2,Bosque de Pino - BP
+Tlaxcala,Teolocholco,Vandalismo,2019-03-26,2019-03-26,Superficial,"4,5",Bosque de Pino - BP
+Tlaxcala,Contla de Juan Cuamatzi,Quema para preparacion de siembra,2019-03-26,2019-03-26,Superficial,"1,5",Bosque de Pino - BP
+Tlaxcala,Acuamanala de Miguel Hidalgo,Quema para preparacion de siembra,2019-03-26,2019-03-26,Superficial,"13,7",Bosque de Pino - BP
+Tlaxcala,Teolocholco,Quema para preparacion de siembra,2019-03-26,2019-03-26,Superficial,"3,2",Bosque de Pino - BP
+Tlaxcala,San Francisco Tetlanohcan,Quema para preparacion de siembra,2019-03-26,2019-03-26,Superficial,"6,7",Bosque de Pino - BP
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Vandalismo,2019-03-27,2019-03-27,Superficial,24,Bosque de Pino - BP
+Tlaxcala,San Francisco Tetlanohcan,Fogatas de paseantes,2019-03-28,2019-03-28,Superficial,"2,5",Bosque de Pino - BP
+Tlaxcala,Contla de Juan Cuamatzi,Quema para preparacion de siembra,2019-03-29,2019-03-29,Superficial,7,Bosque de Pino - BP
+Tlaxcala,Contla de Juan Cuamatzi,Vandalismo,2019-03-29,2019-03-29,Superficial,"14,2",Bosque de Pino - BP
+Tlaxcala,Chiautempan,Quema para preparacion de siembra,2019-03-30,2019-03-30,Superficial,"1,5",Bosque de Pino - BP
+Tlaxcala,Contla de Juan Cuamatzi,Quema para preparacion de siembra,2019-04-02,2019-04-02,Superficial,5,Bosque de Pino - BP
+Tlaxcala,Chiautempan,Quema para preparacion de siembra,2019-04-05,2019-04-05,Superficial,0,Bosque de Pino - BP
+Tlaxcala,Huamantla,Ninguna / No aplica,2019-04-05,2019-04-05,Superficial,"16,7",Bosque de Pino - BP
+Tlaxcala,Chiautempan,Quema para preparacion de siembra,2019-04-05,2019-04-05,Superficial,0,Bosque de Pino - BP
+Tlaxcala,San Francisco Tetlanohcan,Vandalismo,2019-04-08,2019-04-08,Superficial,"1,5",Bosque de Pino - BP
+Tlaxcala,San Francisco Tetlanohcan,Quema para preparacion de siembra,2019-04-08,2019-04-08,Superficial,24,Bosque de Pino - BP
+Tlaxcala,San Francisco Tetlanohcan,Vandalismo,2019-04-09,2019-04-09,Superficial,"1,5",Bosque de Pino - BP
+Tlaxcala,Huamantla,Vandalismo,2019-04-09,2019-04-09,Superficial,"5,3",Bosque de Pino - BP
+Tlaxcala,Chiautempan,Quema para preparacion de siembra,2019-04-10,2019-04-10,Superficial,35,Bosque de Pino - BP
+Tlaxcala,San Francisco Tetlanohcan,Vandalismo,2019-04-10,2019-04-10,Superficial,"25,4",Bosque de Pino - BP
+Tlaxcala,San Francisco Tetlanohcan,Quema para preparacion de siembra,2019-04-12,2019-04-12,Superficial,"15,2",Bosque de Pino - BP
+Tlaxcala,Chiautempan,Quema para preparacion de siembra,2019-04-12,2019-04-12,Superficial,"5,1",Bosque de Pino - BP
+Tlaxcala,Contla de Juan Cuamatzi,Quema para preparacion de siembra,2019-04-13,2019-04-13,Superficial,3,Bosque de Pino - BP
+Tlaxcala,Acuamanala de Miguel Hidalgo,Quema para preparacion de siembra,2019-04-13,2019-04-13,Superficial,61,Bosque de Pino - BP
+Tlaxcala,San Francisco Tetlanohcan,Quema para preparacion de siembra,2019-04-14,2019-04-14,Superficial,"16,7",Bosque de Pino - BP
+Tlaxcala,San Francisco Tetlanohcan,Fogatas de paseantes,2019-04-14,2019-04-14,Superficial,"1,5",Bosque de Pino - BP
+Tlaxcala,Huamantla,Fogatas de paseantes,2019-04-17,2019-04-17,Superficial,"4,2",Bosque de Pino - BP
+Tlaxcala,Teolocholco,Fogatas de paseantes,2019-04-21,2019-04-22,Superficial,"76,8",Pradera de Alta Monta�a - VW
+Tlaxcala,San Francisco Tetlanohcan,Fogatas de paseantes,2019-04-23,2019-04-23,Superficial,"4,5",Bosque de Pino - BP
+Tlaxcala,Chiautempan,Quema para preparacion de siembra,2019-04-23,2019-04-23,Superficial,"1,5",Bosque de Pino - BP
+Tlaxcala,Chiautempan,Quema para preparacion de siembra,2019-04-23,2019-04-23,Superficial,"1,5",Bosque de Pino - BP
+Tlaxcala,Contla de Juan Cuamatzi,Quema para preparacion de siembra,2019-04-21,2019-04-21,Superficial,"5,5",Bosque de Pino - BP
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Vandalismo,2019-04-24,2019-04-24,Superficial,27,Bosque de Pino - BP
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Vandalismo,2019-04-24,2019-04-24,Superficial,43,Bosque de Pino-Encino - BPQ
+Tlaxcala,Huamantla,Vandalismo,2019-04-25,2019-04-25,Superficial,36,Bosque de Pino - BP
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Cambio de uso de suelo,2019-04-24,2019-04-24,Superficial,"3,3",Bosque de Pino - BP
+Tlaxcala,Chiautempan,Quema para preparacion de siembra,2019-04-27,2019-04-27,Superficial,"2,4",Bosque de Pino - BP
+Tlaxcala,Chiautempan,Vandalismo,2019-05-09,2019-05-09,Superficial,"5,2",Bosque de Pino - BP
+Tlaxcala,Chiautempan,Quema para preparacion de siembra,2019-05-10,2019-05-10,Superficial,"3,8",Bosque de Pino - BP
+Tlaxcala,Chiautempan,Vandalismo,2019-05-11,2019-05-11,Superficial,"3,4",Bosque de Pino - BP
+Tlaxcala,Chiautempan,Vandalismo,2019-05-11,2019-05-11,Superficial,21,Bosque de Pino - BP
+Tlaxcala,Chiautempan,Vandalismo,2019-05-12,2019-05-12,Superficial,"13,7",Bosque de Pino - BP
+Tlaxcala,Huamantla,Vandalismo,2019-05-14,2019-05-14,Superficial,"13,6",Bosque de Pino - BP
+Tlaxcala,Huamantla,Vandalismo,2019-05-14,2019-05-14,Superficial,"7,5",Bosque de Pino - BP
+Tlaxcala,San Francisco Tetlanohcan,Vandalismo,2019-05-19,2019-05-19,Superficial,"11,5",Bosque de Pino - BP
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,27/03/2020,27/03/2020,Mixto,"4,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,01/04/2020,02/04/2020,Superficial,116,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,27/03/2020,28/03/2020,Superficial,"85,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,28/03/2020,29/03/2020,Mixto,7,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades Agricolas,28/03/2020,28/03/2020,Superficial,2,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades Agricolas,17/02/2020,17/02/2020,Mixto,"1,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades Agricolas,28/01/2020,28/01/2020,Superficial,"1,5",Bosque de Pino
+Puebla,Puebla,Actividades ilicitas,11/02/2020,11/02/2020,Superficial,"0,5",Bosque de Pino-Encino
+Puebla,Acajete,Actividades ilicitas,15/02/2020,15/02/2020,Superficial,2,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,16/02/2020,16/02/2020,Superficial,"3,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,17/02/2020,17/02/2020,Superficial,"2,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades Pecuarias,17/02/2020,17/02/2020,Superficial,2,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades Agricolas,18/02/2020,18/02/2020,Superficial,"1,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades Agricolas,24/02/2020,24/02/2020,Superficial,1,Bosque de Pino
+Puebla,Puebla,Actividades Agricolas,29/02/2020,29/02/2020,Superficial,"0,5",Bosque de Encino-Pino
+Puebla,Puebla,Actividades Agricolas,10/03/2020,10/03/2020,Superficial,4,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,13/03/2020,13/03/2020,Superficial,5,Bosque de Pino
+Puebla,Puebla,Actividades Agricolas,15/03/2020,15/03/2020,Superficial,"4,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,15/03/2020,15/03/2020,Superficial,5,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades Agricolas,16/03/2020,16/03/2020,Superficial,1,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,22/03/2020,22/03/2020,Superficial,2,Bosque de Pino
+Puebla,Puebla,Actividades ilicitas,24/03/2020,24/03/2020,Superficial,1,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades Agricolas,26/11/2020,26/11/2020,Superficial,1,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Fogatas,22/12/2020,22/12/2020,Superficial,1,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades Agricolas,29/12/2020,29/12/2020,Superficial,6,Bosque de Encino-Pino
+Tlaxcala,Huamantla,Desconocidas,28/10/2020,28/10/2020,Superficial,"0,6",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,03/11/2020,03/11/2020,Superficial,"0,25",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,13/11/2020,13/11/2020,Superficial,"0,25",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,14/11/2020,14/11/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Huamantla,Desconocidas,24/03/2020,24/03/2020,Superficial,"1,4",Bosque de Pino
+Tlaxcala,Teolocholco,Fogatas,07/01/2020,07/01/2020,Superficial,"3,9",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,28/01/2020,28/01/2020,Superficial,"0,5",Bosque de Encino
+Tlaxcala,Huamantla,Actividades ilicitas,31/01/2020,31/01/2020,Superficial,"1,5",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades ilicitas,09/02/2020,09/02/2020,Superficial,"1,5",Bosque de Encino-Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,12/02/2020,12/02/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,16/02/2020,16/02/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,17/02/2020,17/02/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades Agricolas,18/02/2020,18/02/2020,Superficial,3,Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,19/02/2020,19/02/2020,Superficial,1,Bosque de Pino
+Tlaxcala,San Jose Teacalco,Actividades Agricolas,19/02/2020,19/02/2020,Superficial,3,Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,19/02/2020,19/02/2020,Superficial,"0,5",Bosque de Oyamel
+Tlaxcala,Teolocholco,Actividades Agricolas,19/02/2020,19/02/2020,Superficial,1,Bosque de Encino
+Tlaxcala,Chiautempan,Actividades Agricolas,20/02/2020,20/02/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Chiautempan,Actividades Agricolas,23/02/2020,23/02/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Ixtenco,Fogatas,28/02/2020,28/02/2020,Superficial,"4,5",Bosque de Pino
+Tlaxcala,Huamantla,Actividades Agricolas,28/02/2020,28/02/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Chiautempan,Actividades Agricolas,29/02/2020,29/02/2020,Superficial,3,Bosque de Pino
+Tlaxcala,Huamantla,Actividades Agricolas,03/03/2020,03/03/2020,Superficial,"0,75",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades Agricolas,03/03/2020,03/03/2020,Superficial,"3,5",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,06/03/2020,06/03/2020,Superficial,3,Bosque de Pino
+Tlaxcala,Huamantla,Desconocidas,06/03/2020,06/03/2020,Superficial,"11,5",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades ilicitas,08/03/2020,08/03/2020,Superficial,"3,5",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades ilicitas,09/03/2020,09/03/2020,Superficial,4,Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Fogatas,09/03/2020,09/03/2020,Superficial,8,Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,09/03/2020,09/03/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,09/03/2020,09/03/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,09/03/2020,09/03/2020,Superficial,"1,5",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,09/03/2020,09/03/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,10/03/2020,10/03/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades Agricolas,11/03/2020,11/03/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades ilicitas,11/03/2020,11/03/2020,Superficial,"0,5",Bosque de Oyamel
+Tlaxcala,Chiautempan,Actividades ilicitas,12/03/2020,12/03/2020,Superficial,"0,75",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,13/03/2020,13/03/2020,Superficial,"1,5",Bosque de Pino
+Tlaxcala,Huamantla,Desconocidas,13/03/2020,13/03/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,13/03/2020,13/03/2020,Superficial,"1,75",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades ilicitas,13/03/2020,13/03/2020,Superficial,"0,75",Bosque de Pino
+Tlaxcala,Mazatecochco de Jose Maria Morelos,Actividades Agricolas,14/03/2020,14/03/2020,Superficial,2,Bosque de Pino
+Tlaxcala,San Jose Teacalco,Desconocidas,14/03/2020,14/03/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,14/03/2020,14/03/2020,Superficial,"0,75",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,14/03/2020,14/03/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,16/03/2020,16/03/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Actividades Agricolas,17/03/2020,17/03/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Actividades Agricolas,18/03/2020,18/03/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,18/03/2020,18/03/2020,Superficial,"0,75",Bosque de Pino-Encino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Actividades Agricolas,19/03/2020,19/03/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,20/03/2020,20/03/2020,Superficial,"1,75",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades Agricolas,20/03/2020,20/03/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,21/03/2020,21/03/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Actividades Agricolas,21/03/2020,21/03/2020,Superficial,"0,5",Bosque de Encino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,21/03/2020,21/03/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades Agricolas,24/03/2020,24/03/2020,Superficial,6,Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,25/03/2020,25/03/2020,Superficial,"1,5",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades Agricolas,25/03/2020,25/03/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Huamantla,Desconocidas,25/03/2020,25/03/2020,Superficial,57,Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,25/03/2020,25/03/2020,Superficial,"3,5",Bosque de Pino
+Tlaxcala,San Jose Teacalco,Desconocidas,24/03/2020,25/03/2020,Superficial,"7,5",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades Agricolas,25/03/2020,25/03/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,25/03/2020,25/03/2020,Superficial,"11,8",Bosque de Pino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Actividades Agricolas,26/03/2020,26/03/2020,Superficial,3,Bosque de Pino-Encino
+Tlaxcala,Mazatecochco de Jose Maria Morelos,Actividades Agricolas,26/03/2020,26/03/2020,Superficial,"1,5",Bosque de Pino-Encino
+Tlaxcala,San Jose Teacalco,Desconocidas,26/03/2020,26/03/2020,Superficial,"0,75",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,26/03/2020,26/03/2020,Superficial,"1,75",Bosque de Oyamel
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,26/03/2020,26/03/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades ilicitas,27/03/2020,27/03/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,27/03/2020,27/03/2020,Superficial,15,Bosque de Pino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Actividades Agricolas,27/03/2020,27/03/2020,Superficial,"2,5",Bosque de Pino-Encino
+Tlaxcala,Huamantla,Actividades ilicitas,27/03/2020,27/03/2020,Superficial,1,Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,27/03/2020,27/03/2020,Superficial,5,Bosque de Pino
+Tlaxcala,San Pablo del Monte,Fogatas,28/03/2020,28/03/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Fogatas,28/03/2020,28/03/2020,Superficial,1,Bosque de Pino
+Tlaxcala,San Pablo del Monte,Fogatas,28/03/2020,28/03/2020,Superficial,"2,5",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,28/03/2020,28/03/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,28/03/2020,28/03/2020,Superficial,"1,5",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,28/03/2020,28/03/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,San Jose Teacalco,Desconocidas,28/03/2020,28/03/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,29/03/2020,29/03/2020,Superficial,"0,75",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades ilicitas,30/03/2020,30/03/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades Agricolas,30/03/2020,30/03/2020,Superficial,"1,5",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades Agricolas,31/03/2020,31/03/2020,Superficial,"1,5",Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,31/03/2020,31/03/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Actividades Agricolas,01/04/2020,01/04/2020,Superficial,"1,5",Bosque de Pino
+Tlaxcala,Huamantla,Desconocidas,01/04/2020,01/04/2020,Superficial,4,Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,02/04/2020,02/04/2020,Superficial,5,Bosque de Pino
+Tlaxcala,Huamantla,Desconocidas,02/04/2020,02/04/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,04/04/2020,04/04/2020,Superficial,"1,5",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,05/04/2020,05/04/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,07/04/2020,07/04/2020,Superficial,4,Bosque de Pino
+Tlaxcala,Huamantla,Fogatas,10/04/2020,10/04/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,11/04/2020,11/04/2020,Superficial,5,Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades ilicitas,12/04/2020,12/04/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Huamantla,Actividades Agricolas,13/04/2020,13/04/2020,Superficial,1,Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,13/04/2020,13/04/2020,Superficial,"1,1",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,15/04/2020,15/04/2020,Superficial,17,Bosque de Encino-Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,17/04/2020,17/04/2020,Superficial,2,Bosque de Pino
+Tlaxcala,Huamantla,Desconocidas,21/04/2020,21/04/2020,Superficial,"0,75",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,21/04/2020,21/04/2020,Superficial,3,Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,22/04/2020,22/04/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,28/04/2020,28/04/2020,Superficial,"1,5",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,29/04/2020,29/04/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,05/05/2020,05/05/2020,Superficial,3,Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,05/05/2020,05/05/2020,Superficial,3,Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,05/05/2020,05/05/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Ixtenco,Actividades ilicitas,05/05/2020,05/05/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Ixtenco,Actividades ilicitas,13/05/2020,13/05/2020,Superficial,"0,75",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,13/05/2020,13/05/2020,Superficial,2,Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,13/05/2020,13/05/2020,Superficial,3,Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,18/05/2020,18/05/2020,Superficial,2,Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,18/05/2020,18/05/2020,Superficial,"0,5",Bosque de Pino-Encino
+Tlaxcala,Chiautempan,Desconocidas,20/05/2020,20/05/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,22/05/2020,22/05/2020,Superficial,"3,5",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,26/05/2020,26/05/2020,Superficial,27,Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,26/05/2020,26/05/2020,Superficial,20,Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,20/04/2020,20/04/2020,Superficial,3,Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,04/06/2020,04/06/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,07/06/2020,07/06/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,05/06/2020,05/06/2020,Superficial,"0,75",Bosque de Pino-Encino
+Tlaxcala,Chiautempan,Desconocidas,08/06/2020,08/06/2020,Superficial,"0,75",Bosque de Encino
+Tlaxcala,Chiautempan,Desconocidas,12/06/2020,12/06/2020,Superficial,"1,5",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,16/06/2020,16/06/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,17/06/2020,17/06/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,04/06/2020,04/06/2020,Superficial,"0,75",Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,18/06/2020,18/06/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,23/06/2020,23/06/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Fogatas,03/07/2020,03/07/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,11/07/2020,11/07/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,18/07/2020,18/07/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,23/07/2020,23/07/2020,Superficial,1,Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,15/10/2020,15/10/2020,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,27/11/2020,27/11/2020,Superficial,"0,25",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,02/12/2020,02/12/2020,Superficial,"0,75",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades Agricolas,10/12/2020,10/12/2020,Superficial,"1,8",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2021-02-20,2021-02-20,Superficial,"3,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2021-01-01,2021-01-01,Superficial,1,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2021-01-02,2021-01-02,Superficial,"1,5",Bosque de Pino
+Puebla,Acajete,Actividades ilicitas,2021-02-02,2021-02-02,Superficial,2,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades Pecuarias,2021-02-07,2021-02-07,Superficial,9,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2021-02-08,2021-02-08,Superficial,"1,5",Bosque de Pino
+Puebla,Puebla,Actividades Agricolas,2021-02-15,2021-02-15,Superficial,1,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades Agricolas,2021-02-16,2021-02-16,Superficial,2,Bosque de Pino
+Puebla,Puebla,Actividades Agricolas,2021-02-17,2021-02-17,Superficial,2,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades Agricolas,2021-02-15,2021-02-18,Superficial,"4,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2021-02-18,2021-02-18,Superficial,"1,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades Agricolas,2021-02-19,2021-02-21,Superficial,90,Bosque de Pino
+Puebla,Puebla,Actividades Agricolas,2021-02-22,2021-02-22,Superficial,1,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades Agricolas,2021-02-22,22/20/2021,Superficial,"2,5",Bosque de Pino
+Puebla,Acajete,Actividades ilicitas,2021-02-25,2021-02-25,Superficial,"1,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2021-03-01,2021-03-01,Superficial,"1,5",Bosque de Pino
+Puebla,Puebla,Actividades ilicitas,2021-03-22,2021-03-22,Superficial,"1,5",Bosque de Encino-Pino
+Puebla,Puebla,Actividades ilicitas,2021-03-27,2021-03-27,Superficial,4,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2021-03-28,2021-03-28,Superficial,2,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2021-03-28,2021-03-28,Superficial,2,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2021-03-31,2021-03-31,Superficial,3,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2021-04-03,2021-04-03,Superficial,"0,36",Bosque de Pino
+Puebla,Puebla,Actividades ilicitas,2021-03-28,2021-04-07,Mixto,400,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades Agricolas,2021-04-08,2021-04-08,Superficial,2,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2021-04-22,2021-04-22,Superficial,8,Bosque de Pino
+Puebla,Puebla,Actividades ilicitas,2021-03-01,2021-03-01,Superficial,1,Bosque de Pino
+Puebla,Puebla,Actividades ilicitas,2021-03-03,2021-03-03,Superficial,"0,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2021-03-04,2021-03-04,Superficial,2,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2021-03-04,2021-03-04,Mixto,2,Bosque de Pino
+Puebla,Acajete,Actividades ilicitas,2021-03-05,2021-03-05,Mixto,"2,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades Agricolas,2021-03-05,2021-03-05,Superficial,5,Bosque de Pino
+Puebla,Puebla,Desconocidas,2021-03-10,2021-03-10,Superficial,3,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2021-03-11,2021-03-11,Superficial,1,Bosque de Pino
+Puebla,Puebla,Actividades ilicitas,2021-03-13,2021-03-14,Superficial,31,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2021-03-15,2021-03-15,Superficial,8,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Desconocidas,2021-03-18,2021-03-18,Superficial,2,Bosque de Pino
+Puebla,Puebla,Actividades Agricolas,2021-03-24,2021-03-24,Superficial,2,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades Agricolas,2021-03-27,2021-03-27,Superficial,3,Bosque de Pino-Encino
+Puebla,Tepatlaxco de Hidalgo,Actividades Agricolas,2021-03-27,2021-03-27,Superficial,2,Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-12-10,2021-12-10,Superficial,"0,276",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2021-01-02,2021-01-02,Superficial,"0,25",Bosque de Oyamel
+Tlaxcala,Huamantla,Actividades ilicitas,2021-01-10,2021-01-10,Superficial,"0,6",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-01-13,2021-01-13,Superficial,"0,496",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,2021-01-14,2021-01-14,Superficial,"0,084",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-01-15,2021-01-15,Superficial,"0,065",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-01-25,2021-01-25,Superficial,"0,25",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-01-25,2021-01-25,Superficial,1,Bosque de Pino
+Tlaxcala,San Jose Teacalco,Desconocidas,2021-01-26,2021-01-26,Superficial,"1,3",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,2021-01-27,2021-01-27,Superficial,"2,25",Bosque de Pino
+Tlaxcala,Huamantla,Fogatas,2021-01-26,2021-01-27,Superficial,"4,5",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-01-28,2021-01-28,Superficial,"0,25",Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-02-04,2021-02-04,Superficial,"0,25",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-02-05,2021-02-05,Superficial,"0,25",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-05,2021-02-05,Superficial,"1,75",Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-02-05,2021-02-05,Superficial,"0,25",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-06,2021-02-06,Superficial,"0,75",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-06,2021-02-06,Superficial,"1,25",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-07,2021-02-07,Superficial,"1,25",Bosque de Pino
+Tlaxcala,Teolocholco,Fogatas,2021-02-08,2021-02-08,Superficial,"0,3",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades ilicitas,2021-02-09,2021-02-09,Superficial,"0,1",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-09,2021-02-09,Superficial,"1,9",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-02-09,2021-02-09,Superficial,"1,1",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-02-09,2021-02-09,Superficial,"3,122",Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-02-05,2021-02-05,Superficial,"0,12",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-11,2021-02-11,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-11,2021-02-11,Superficial,"3,845",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades Pecuarias,2021-02-11,2021-02-11,Superficial,"1,37",Bosque de Pino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Actividades Agricolas,2021-02-12,2021-02-12,Superficial,"2,34",Bosque de Pino-Encino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-13,2021-02-13,Superficial,"0,4",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-02-14,2021-02-14,Superficial,3,Bosque de Pino-Encino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-14,2021-02-14,Superficial,"0,405",Bosque de Encino-Pino
+Tlaxcala,Teolocholco,Actividades Agricolas,2021-02-14,2021-02-14,Superficial,"0,9",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-16,2021-02-16,Superficial,"6,6",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-16,2021-02-16,Superficial,2,Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-02-18,2021-02-18,Superficial,"0,221",Bosque de Pino
+Tlaxcala,Ixtenco,Actividades Pecuarias,2021-02-19,2021-02-19,Superficial,6,Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-19,2021-02-19,Superficial,"1,2",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-02-20,2021-02-20,Superficial,"0,729",Bosque de Pino
+Tlaxcala,Teolocholco,Fogatas,2021-02-21,2021-02-21,Superficial,"0,25",Bosque de Pino
+Tlaxcala,Mazatecochco de Jose Maria Morelos,Actividades Agricolas,2021-02-21,2021-02-21,Superficial,"2,75",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades Agricolas,2021-02-22,2021-02-22,Superficial,"0,46",Bosque de Pino
+Tlaxcala,San Jose Teacalco,Actividades Agricolas,2021-02-22,2021-02-22,Superficial,"1,185",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-02-24,2021-02-24,Superficial,"0,15",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-25,2021-02-25,Superficial,11,Bosque de Pino
+Tlaxcala,Teolocholco,Fogatas,2021-02-26,2021-02-26,Superficial,"0,25",Bosque de Pino
+Tlaxcala,Teolocholco,Desconocidas,2021-02-26,2021-02-26,Superficial,"0,4",Bosque de Pino-Encino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-26,2021-02-26,Superficial,"1,5",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-27,2021-02-27,Superficial,"0,5",Bosque de Encino-Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Fogatas,2021-02-28,2021-02-28,Superficial,"0,45",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,2021-03-01,2021-03-01,Superficial,"0,24",Bosque de Pino
+Tlaxcala,Huamantla,Desconocidas,2021-03-01,2021-03-01,Superficial,"0,309",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-03-02,2021-03-02,Superficial,"2,27",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,2021-03-03,2021-03-03,Superficial,"0,419",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,2021-03-03,2021-03-03,Superficial,"8,061",Bosque de Pino-Encino
+Tlaxcala,Teolocholco,Desconocidas,2021-03-03,2021-03-03,Superficial,"2,2",Bosque de Pino
+Tlaxcala,Huamantla,Desconocidas,2021-03-01,2021-03-01,Superficial,"0,388",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-03-04,2021-03-04,Superficial,"0,316",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-03-04,2021-03-04,Superficial,"1,937",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades Pecuarias,2021-03-05,2021-03-05,Superficial,"2,032",Bosque de Pino
+Tlaxcala,Teolocholco,Desconocidas,2021-03-05,2021-03-05,Superficial,1,Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-03-06,2021-03-06,Superficial,"2,63",Bosque de Encino-Pino
+Tlaxcala,Contla de Juan Cuamatzi,Desconocidas,2021-03-06,2021-03-06,Superficial,6,Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-03-07,2021-03-07,Superficial,"0,766",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-03-10,2021-03-10,Superficial,"0,445",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2021-03-10,2021-03-10,Superficial,"0,8",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-03-11,2021-03-11,Superficial,"0,737",Bosque de Pino
+Tlaxcala,Huamantla,Desconocidas,2021-03-12,2021-03-12,Superficial,"2,313",Bosque de Pino
+Tlaxcala,Huamantla,Desconocidas,2021-03-12,2021-03-12,Superficial,"0,238",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,2021-03-14,2021-03-14,Superficial,10,Bosque de Pino-Encino
+Tlaxcala,San Francisco Tetlanohcan,Actividades ilicitas,2021-03-16,2021-03-16,Superficial,"0,233",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-03-18,2021-03-18,Superficial,"0,766",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-03-19,2021-03-19,Superficial,"0,342",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-03-20,2021-03-20,Superficial,"0,732",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-03-21,2021-03-21,Superficial,"10,5",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-03-21,2021-03-21,Superficial,"0,434",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades Agricolas,2021-03-21,2021-03-21,Superficial,"1,9",Bosque de Encino-Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-03-22,2021-03-22,Superficial,"2,202",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades ilicitas,2021-03-23,2021-03-23,Superficial,"9,691",Bosque de Pino-Encino
+Tlaxcala,Chiautempan,Desconocidas,2021-03-23,2021-03-23,Superficial,2,Bosque de Pino
+Tlaxcala,Teolocholco,Otras actividades productivas,2021-03-24,2021-03-24,Superficial,"0,33",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-03-24,2021-03-24,Superficial,"2,264",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,2021-03-25,2021-03-25,Superficial,10,Bosque de Pino-Encino
+Tlaxcala,San Francisco Tetlanohcan,Actividades ilicitas,2021-03-26,2021-03-26,Superficial,"3,2",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades ilicitas,2021-03-26,2021-03-26,Superficial,"20,3",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades ilicitas,2021-03-27,2021-03-27,Superficial,"4,409",Bosque de Encino-Pino
+Tlaxcala,Chiautempan,Actividades Agricolas,2021-03-27,2021-03-27,Superficial,"2,757",Bosque de Pino-Encino
+Tlaxcala,Teolocholco,Actividades Agricolas,2021-03-27,2021-03-27,Superficial,"0,55",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Fogatas,2021-04-04,2021-04-04,Superficial,"3,9",Bosque de Encino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2021-04-04,2021-04-04,Superficial,"2,16",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,2021-04-05,2021-04-05,Superficial,"0,475",Bosque de Pino-Encino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Otras actividades productivas,2021-04-04,2021-04-04,Superficial,"9,858",Bosque de Encino
+Tlaxcala,Chiautempan,Actividades ilicitas,2021-04-05,2021-04-05,Superficial,"1,67",Bosque de Encino-Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,2021-04-05,2021-04-05,Superficial,"0,41",Bosque de Pino-Encino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Fogatas,2021-04-05,2021-04-05,Superficial,"2,51",Bosque de Encino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades Pecuarias,2021-04-05,2021-04-05,Superficial,"1,3",Bosque de Pino-Encino
+Tlaxcala,San Pablo del Monte,Fogatas,2021-04-05,2021-04-05,Superficial,"6,98",Bosque de Encino
+Tlaxcala,San Pablo del Monte,Fogatas,2021-04-05,2021-04-05,Superficial,"8,75",Bosque de Encino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-04-06,2021-04-06,Superficial,"0,25",Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-04-07,2021-04-07,Superficial,"0,6",Bosque de Pino
+Tlaxcala,Mazatecochco de Jose Maria Morelos,Actividades Agricolas,2021-04-07,2021-04-07,Superficial,"2,25",Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-04-08,2021-04-08,Superficial,"0,718",Bosque de Pino
+Tlaxcala,Huamantla,Actividades Agricolas,2021-04-08,2021-04-08,Superficial,"0,693",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades Agricolas,2021-04-10,2021-04-10,Superficial,"1,155",Bosque de Encino-Pino
+Tlaxcala,Chiautempan,Actividades Agricolas,2021-04-11,2021-04-11,Superficial,"1,12",Bosque de Encino-Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Desconocidas,2021-04-12,2021-04-12,Superficial,"5,035",Bosque de Pino-Encino
+Tlaxcala,San Pablo del Monte,Actividades Agricolas,2021-04-18,2021-04-18,Superficial,"0,42",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Fogatas,2021-04-20,2021-04-20,Superficial,"0,57",Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-04-20,2021-04-20,Superficial,"1,5",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-04-21,2021-04-21,Superficial,"3,343",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades Agricolas,2021-04-21,2021-04-21,Superficial,"0,83",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-04-22,2021-04-22,Superficial,"6,438",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-04-27,2021-04-27,Superficial,"5,501",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-04-27,2021-04-27,Superficial,"5,387",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades ilicitas,2021-04-29,2021-04-29,Superficial,1,Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-04-29,2021-04-29,Superficial,"1,119",Bosque de Pino
+Tlaxcala,Huamantla,Desconocidas,2021-05-03,2021-05-03,Superficial,"0,3",Bosque de Pino
+Tlaxcala,Ixtenco,Actividades Pecuarias,2021-05-04,2021-05-05,Superficial,"1,7",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Desconocidas,2021-05-06,2021-05-06,Superficial,"0,925",Bosque de Pino-Encino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-05-06,2021-05-06,Superficial,"0,223",Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-05-06,2021-05-06,Superficial,"0,346",Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-05-20,2021-05-20,Superficial,"0,18",Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-01-28,2021-01-28,Superficial,"0,25",Bosque de Pino
+Tlaxcala,Teolocholco,Fogatas,2021-02-02,2021-02-02,Superficial,"0,116",Bosque de Oyamel
+Tlaxcala,Huamantla,Actividades ilicitas,2021-02-18,2021-02-18,Superficial,"0,5",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-02-22,2021-02-22,Superficial,"0,778",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,2021-02-28,2021-02-28,Superficial,"0,543",Bosque de Pino-Encino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-28,2021-02-28,Superficial,"5,25",Bosque de Pino
+Tlaxcala,Huamantla,Desconocidas,2021-02-28,2021-02-28,Superficial,"1,4",Bosque de Pino
+Tlaxcala,Mazatecochco de Jose Maria Morelos,Actividades Agricolas,2021-03-04,2021-03-04,Superficial,"5,1",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-03-14,2021-03-14,Superficial,"2,156",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-03-24,2021-03-24,Superficial,"0,67",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades Pecuarias,2021-03-24,2021-03-24,Superficial,3,Bosque de Pino-Encino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,2021-03-28,2021-03-28,Superficial,"2,1",Bosque de Pino-Encino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,2021-03-29,2021-03-29,Superficial,"0,092",Bosque de Pino-Encino
+Tlaxcala,San Francisco Tetlanohcan,Actividades ilicitas,2021-04-01,2021-04-01,Superficial,"2,204",Bosque de Pino
+Tlaxcala,Teolocholco,Otras actividades productivas,2021-04-23,2021-04-23,Superficial,"1,29",Bosque de Encino
+Tlaxcala,Teolocholco,Fogatas,2021-01-04,2021-01-04,Superficial,"0,105",Bosque de Oyamel
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-02-04,2021-02-04,Superficial,"0,115",Bosque de Pino
+Tlaxcala,Teolocholco,Desconocidas,2021-03-02,2021-03-02,Superficial,"0,23",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,2021-03-18,2021-03-18,Superficial,"0,25",Bosque de Pino
+Tlaxcala,Huamantla,Fogatas,2021-03-20,2021-03-20,Superficial,"0,25",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades ilicitas,2021-02-02,2021-02-02,Superficial,"0,4",Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-03-28,2021-03-28,Superficial,"0,43",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-01-30,2021-01-30,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-01-30,2021-01-30,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,2021-01-30,2021-01-30,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-03-09,2021-03-09,Superficial,"0,6",Bosque de Pino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Actividades Agricolas,2021-03-12,2021-03-12,Superficial,"0,9",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Desconocidas,2021-03-13,2021-03-13,Superficial,"0,97",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades ilicitas,2021-04-02,2021-04-02,Superficial,"1,184",Bosque de Encino-Pino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Actividades Agricolas,2021-03-12,2021-03-12,Superficial,"1,4",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-01,2021-02-01,Superficial,"1,5",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Fogatas,2021-03-12,2021-03-12,Superficial,"1,5",Bosque de Pino
+Tlaxcala,Mazatecochco de Jose Maria Morelos,Desconocidas,2021-03-13,2021-03-13,Superficial,"1,5",Bosque de Pino
+Tlaxcala,Ixtenco,Actividades ilicitas,2021-03-05,2021-03-05,Superficial,"1,56",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-03-03,2021-03-03,Superficial,"1,7",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,2021-03-03,2021-03-03,Superficial,"1,8",Bosque de Pino-Encino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,2021-03-31,2021-03-31,Superficial,"1,918",Bosque de Pino-Encino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades Pecuarias,2021-03-13,2021-03-13,Superficial,"10,25",Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-03-25,2021-03-25,Superficial,"10,5",Bosque de Pino
+Tlaxcala,Mazatecochco de Jose Maria Morelos,Actividades Agricolas,2021-03-06,2021-03-06,Superficial,2,Bosque de Pino-Encino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Actividades Agricolas,2021-03-10,2021-03-10,Superficial,2,Bosque de Pino-Encino
+Tlaxcala,Chiautempan,Desconocidas,2021-03-02,2021-03-02,Superficial,"2,2",Bosque de Pino
+Tlaxcala,Teolocholco,Fogatas,2021-04-04,2021-04-04,Superficial,"2,32",Bosque de Pino-Encino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades Pecuarias,2021-03-12,2021-03-12,Superficial,"29,3",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades ilicitas,2021-03-18,2021-03-18,Superficial,"3,1",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades ilicitas,2021-04-02,2021-04-02,Superficial,"3,19",Bosque de Pino-Encino
+Tlaxcala,Huamantla,Actividades ilicitas,2021-03-16,2021-03-16,Superficial,"3,4",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades Agricolas,2021-04-03,2021-04-03,Superficial,"3,781",Bosque de Encino
+Tlaxcala,Huamantla,Actividades ilicitas,2021-03-09,2021-03-09,Superficial,"5,2",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,2021-03-13,2021-03-13,Superficial,"5,5",Bosque de Pino
+Tlaxcala,Teolocholco,Fogatas,2021-04-03,2021-04-03,Superficial,6,Pradera de Alta Montana
+Tlaxcala,Chiautempan,Desconocidas,2021-03-07,2021-03-07,Superficial,8,Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,2021-03-14,2021-03-14,Superficial,"8,5",Bosque de Pino-Encino
+Tlaxcala,Huamantla,Actividades ilicitas,2021-01-03,2021-01-03,Superficial,"0,07",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades ilicitas,2021-01-04,2021-01-04,Superficial,1,Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-01-27,2021-01-27,Superficial,"0,25",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-04,2021-02-04,Superficial,"2,291",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-02-15,2021-02-15,Superficial,"1,76",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-16,2021-02-16,Superficial,"1,058",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades Pecuarias,2021-02-16,2021-02-16,Superficial,"0,826",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-02-16,2021-02-16,Superficial,"0,1",Bosque de Encino-Pino
+Tlaxcala,Huamantla,Desconocidas,2021-02-19,2021-02-19,Superficial,"0,192",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,2021-02-20,2021-02-20,Superficial,"1,933",Bosque de Pino-Encino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,2021-02-20,2021-02-20,Superficial,"1,161",Bosque de Pino-Encino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-03-04,2021-03-04,Superficial,"1,4",Bosque de Pino
+Tlaxcala,Ixtenco,Actividades Pecuarias,2021-03-05,2021-03-05,Superficial,"2,75",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-03-07,2021-03-07,Superficial,"1,166",Bosque de Pino
+Tlaxcala,Teolocholco,Fogatas,2021-03-10,2021-03-10,Superficial,"4,354",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades ilicitas,2021-04-01,2021-04-01,Superficial,"0,879",Bosque de Pino
+Tlaxcala,Chiautempan,Fogatas,2021-04-03,2021-04-03,Superficial,"2,673",Bosque de Encino-Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-04-03,2021-04-03,Superficial,4,Pradera de Alta Montana
+Tlaxcala,Huamantla,Fogatas,2021-04-04,2021-04-04,Superficial,"0,32",Bosque de Pino
+Tlaxcala,Huamantla,Desconocidas,2021-04-11,2021-04-11,Superficial,"0,46",Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-04-13,2021-04-13,Superficial,"1,744",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades Agricolas,2021-04-16,2021-04-16,Superficial,"2,158",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades Agricolas,2021-04-21,2021-04-21,Superficial,"0,246",Bosque de Pino
+Tlaxcala,San Jose Teacalco,Actividades Agricolas,2021-04-23,2021-04-23,Superficial,"0,94",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Desconocidas,2021-04-26,2021-04-26,Superficial,"0,255",Bosque de Pino
+Tlaxcala,Teolocholco,Desconocidas,2021-03-30,2021-03-31,Superficial,"14,416",Pradera de Alta Montana
+Tlaxcala,Chiautempan,Desconocidas,2021-04-29,2021-04-29,Superficial,"0,573",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2021-05-20,2021-05-20,Superficial,"0,646",Bosque de Pino
+Tlaxcala,Huamantla,Actividades Pecuarias,2021-05-21,2021-05-21,Superficial,"0,25",Bosque de Pino
+Tlaxcala,Huamantla,Desconocidas,2021-05-27,2021-05-27,Superficial,"0,963",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2021-05-27,2021-05-27,Superficial,"0,896",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2022-03-01,2022-03-01,Superficial,1,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2022-04-03,2022-04-03,Superficial,"1,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2022-04-05,2022-04-05,Superficial,"1,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2022-04-14,2022-04-14,Superficial,1,Bosque de Pino
+Puebla,Puebla,Actividades ilicitas,2022-04-14,2022-04-14,Superficial,"0,5",Bosque de Pino
+Puebla,Puebla,Actividades ilicitas,2022-01-06,2022-01-06,Superficial,"0,5",Bosque de Pino
+Puebla,Puebla,Actividades pecuarias,2022-02-19,2022-02-19,Superficial,6,Bosque de Pino
+Puebla,Puebla,Actividades pecuarias,2022-03-09,2022-03-09,Superficial,"2,5",Bosque de Encino-Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades ilicitas,2022-02-24,2022-02-24,Superficial,3,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades agricolas,2022-03-02,2022-03-03,Superficial,7,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades agricolas,2022-03-14,2022-03-14,Superficial,1,Bosque de Pino
+Tlaxcala,San Jose Teacalco,Actividades pecuarias,2022-12-07,2022-12-07,Superficial,"0,2039",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2022-12-12,2022-12-12,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades ilicitas,2022-10-01,2022-10-01,Superficial,"0,726",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2022-04-01,2022-04-01,Superficial,"0,6",Bosque de Encino-Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades ilicitas,2022-06-01,2022-06-01,Superficial,"1,038",Bosque de Pino-Encino
+Tlaxcala,Teolocholco,Actividades pecuarias,01/15/2022,01/15/2022,Superficial,"6,375",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades agricolas,2022-02-20,2022-02-20,Superficial,"0,95",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2022-02-20,2022-02-20,Superficial,"0,862",Bosque de Encino-Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades agricolas,2022-02-21,2022-02-21,Superficial,"1,136",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades ilicitas,2022-02-21,2022-02-21,Superficial,"2,5",Bosque de Encino-Pino
+Tlaxcala,Contla de Juan Cuamatzi,Actividades agricolas,2022-02-22,2022-02-22,Superficial,"1,5",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2022-02-22,2022-02-22,Superficial,"0,5",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,2022-02-22,2022-02-22,Superficial,"5,878",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades agricolas,2022-02-22,2022-02-22,Superficial,"0,374",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Actividades ilicitas,2022-02-22,2022-02-22,Superficial,"2,006",Bosque de Pino
+Tlaxcala,Huamantla,Actividades agricolas,2022-02-23,2022-02-23,Superficial,"4,69",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades ilicitas,2022-02-23,2022-02-23,Superficial,2,Bosque de Encino-Pino
+Tlaxcala,San Pablo del Monte,Actividades ilicitas,2022-02-23,2022-02-23,Superficial,"1,946",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Actividades ilicitas,2022-02-24,2022-02-24,Superficial,"0,993",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Actividades agricolas,2022-02-25,2022-02-25,Superficial,"0,845",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades agricolas,2022-02-28,2022-02-28,Superficial,"3,797",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades ilicitas,2022-03-03,2022-03-03,Superficial,"5,727",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Actividades ilicitas,2022-03-04,2022-03-04,Superficial,"0,44",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades ilicitas,2022-03-05,2022-03-05,Superficial,"3,174",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2022-03-06,2022-03-06,Superficial,"2,7",Bosque de Pino
+Tlaxcala,Teolocholco,Fogatas,2022-03-07,2022-03-07,Superficial,"1,872",Bosque de Pino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Actividades agricolas,2022-03-08,2022-03-08,Superficial,"2,506",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades ilicitas,2022-03-09,2022-03-09,Superficial,"1,552",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2022-03-11,2022-03-11,Superficial,"5,156",Bosque de Pino
+Tlaxcala,Huamantla,Actividades pecuarias,2022-03-13,2022-03-13,Superficial,"0,173",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,2022-03-13,2022-03-13,Superficial,"0,328",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2022-03-14,2022-03-14,Superficial,"1,5",Bosque de Pino
+Tlaxcala,Huamantla,Actividades agricolas,2022-03-14,2022-03-14,Superficial,"2,476",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades agricolas,2022-01-28,2022-01-28,Superficial,"0,418",Bosque de Pino
+Tlaxcala,Mazatecochco de Jose Maria Morelos,Actividades agricolas,2022-02-03,2022-02-03,Superficial,"2,33",Bosque de Encino
+Tlaxcala,San Francisco Tetlanohcan,Actividades ilicitas,2022-02-15,2022-02-15,Superficial,"0,358",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,2022-02-20,2022-02-20,Superficial,"0,61",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2022-02-21,2022-02-21,Superficial,"0,4875",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2022-02-23,2022-02-23,Superficial,2,Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2022-03-01,2022-03-01,Superficial,"0,6",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades ilicitas,2022-03-03,2022-03-03,Superficial,"7,922",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Actividades agricolas,2022-03-13,2022-03-13,Superficial,"1,215",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2022-03-26,2022-03-26,Superficial,"0,471",Bosque de Encino-Pino
+Tlaxcala,Chiautempan,Actividades ilicitas,2022-03-27,2022-03-27,Superficial,"1,3",Bosque de Encino-Pino
+Tlaxcala,Huamantla,Actividades pecuarias,2022-03-29,2022-03-29,Superficial,"0,62",Bosque de Pino
+Tlaxcala,Teolocholco,Fogatas,2022-04-06,2022-04-06,Superficial,"1,573",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2022-04-11,2022-04-11,Superficial,"0,5",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Actividades pecuarias,2022-04-17,2022-04-17,Superficial,"2,418",Bosque de Pino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Actividades agricolas,2022-04-19,2022-04-19,Superficial,"1,252",Bosque de Pino
+Tlaxcala,Huamantla,Actividades pecuarias,2022-05-10,2022-05-10,Superficial,"1,199",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades pecuarias,2022-05-17,2022-05-17,Superficial,"0,771",Bosque de Pino
+Tlaxcala,Chiautempan,Otras actividades productivas,2022-05-20,2022-05-21,Superficial,"1,384",Bosque de Encino-Pino
+Tlaxcala,Huamantla,Actividades pecuarias,2022-06-08,2022-06-08,Superficial,"0,238",Bosque de Pino
+Tlaxcala,Huamantla,Actividades pecuarias,2022-06-09,2022-06-09,Superficial,"0,464",Bosque de Pino
+Tlaxcala,Ixtenco,Actividades pecuarias,2022-07-10,2022-07-10,Superficial,"1,479",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades ilicitas,2022-07-21,2022-07-21,Superficial,"1,735",Bosque de Pino
+Tlaxcala,Huamantla,Actividades pecuarias,2022-07-22,2022-07-22,Superficial,"0,326",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2022-07-24,2022-07-24,Superficial,"0,851",Bosque de Pino
+Tlaxcala,Huamantla,Actividades pecuarias,2022-08-07,2022-08-07,Superficial,"0,965",Bosque de Pino
+Tlaxcala,Huamantla,Desconocidas,2022-08-11,2022-08-11,Superficial,"0,951",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2022-03-19,2022-03-19,Superficial,"0,855",Bosque de Encino-Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades ilicitas,2022-03-20,2022-03-20,Superficial,"1,069",Bosque de Pino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Actividades agricolas,2022-03-22,2022-03-22,Superficial,"0,734",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades agricolas,2022-03-24,2022-03-27,Superficial,"40,5",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades ilicitas,2022-03-28,2022-03-28,Superficial,"0,778",Bosque de Pino
+Tlaxcala,Huamantla,Actividades ilicitas,2022-03-28,2022-03-28,Superficial,"1,355",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2022-03-28,2022-03-28,Superficial,"7,546",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades ilicitas,2022-03-29,2022-03-29,Superficial,"2,6",Bosque de Pino-Encino
+Tlaxcala,Teolocholco,Otras actividades productivas,2022-03-30,2022-03-30,Superficial,"1,8",Bosque de Encino
+Tlaxcala,San Pablo del Monte,Actividades agricolas,2022-03-30,2022-03-30,Superficial,"0,9",Bosque de Encino
+Tlaxcala,Chiautempan,Actividades agricolas,2022-03-30,2022-03-30,Superficial,4,Bosque de Pino
+Tlaxcala,Huamantla,Fogatas,2022-04-01,2022-04-01,Superficial,"0,738",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades ilicitas,2022-04-02,2022-04-02,Superficial,"4,035",Bosque de Pino
+Tlaxcala,Huamantla,Actividades agricolas,2022-04-02,2022-04-02,Superficial,"0,903",Bosque de Pino
+Tlaxcala,Huamantla,Actividades pecuarias,2022-04-04,2022-04-04,Superficial,"3,885",Bosque de Pino
+Tlaxcala,Huamantla,Actividades pecuarias,2022-04-04,2022-04-04,Superficial,"1,447",Bosque de Pino
+Tlaxcala,Huamantla,Actividades pecuarias,2022-04-07,2022-04-07,Superficial,"1,194",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2022-04-16,2022-04-16,Superficial,"1,5",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2022-04-18,2022-04-18,Superficial,"1,321",Pradera de Alta Montana
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades pecuarias,2022-04-18,2022-04-18,Superficial,"0,435",Bosque de Pino-Encino
+Tlaxcala,Huamantla,Actividades pecuarias,2022-04-22,2022-04-22,Superficial,"0,527",Bosque de Pino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Fogatas,2022-04-25,2022-04-25,Superficial,"0,927",Bosque de Pino-Encino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades pecuarias,2022-04-25,2022-04-25,Superficial,"2,14",Bosque de Pino-Encino
+Tlaxcala,Huamantla,Actividades pecuarias,2022-04-26,2022-04-26,Superficial,"0,211",Bosque de Pino
+Tlaxcala,Huamantla,Actividades pecuarias,2022-04-27,2022-04-27,Superficial,"0,206",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2022-05-02,2022-05-02,Superficial,"0,279",Bosque de Pino
+Tlaxcala,Huamantla,Actividades pecuarias,2022-05-04,2022-05-04,Superficial,"0,175",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades ilicitas,2022-05-05,2022-05-05,Superficial,"2,166",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2022-05-16,2022-05-16,Superficial,"1,43",Bosque de Pino
+Tlaxcala,Mazatecochco de Jose Maria Morelos,Actividades agricolas,2022-05-17,2022-05-17,Superficial,"2,46",Bosque de Encino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades pecuarias,2022-05-23,2022-05-23,Superficial,"0,589",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Naturales,2022-05-26,2022-05-26,Superficial,"0,298",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2022-05-27,2022-05-27,Superficial,"2,696",Bosque de Pino
+Tlaxcala,Huamantla,Actividades pecuarias,2022-06-03,2022-06-03,Superficial,"1,123",Bosque de Pino
+Tlaxcala,Huamantla,Actividades pecuarias,2022-06-04,2022-06-04,Superficial,"0,493",Bosque de Pino
+Tlaxcala,Chiautempan,Fogatas,2022-06-05,2022-06-05,Superficial,"1,801",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2022-12-17,2022-12-17,Superficial,"1,7386",Bosque de pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2022-12-19,2022-12-19,Superficial,"0,61",Bosque de pino
+Puebla,Acajete,Intencional,2023-01-11,2023-01-11,Superficial,2,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades agricolas,2023-01-17,2023-01-17,Superficial,1,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Fogatas,2023-02-01,2023-02-01,Superficial,2,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-02-05,2023-02-05,Superficial,5,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Fogatas,2023-02-06,2023-02-06,Superficial,1,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades pecuarias,2023-02-09,2023-02-09,Superficial,3,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades pecuarias,2023-02-13,2023-02-13,Superficial,1,Bosque de Pino
+Puebla,Puebla,Actividades pecuarias,2023-02-13,2023-02-13,Superficial,"0,5",Bosque de Pino-Encino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-02-14,2023-02-14,Superficial,1,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-02-15,2023-02-15,Superficial,5,Bosque de Pino
+Puebla,Puebla,Actividades agricolas,2023-02-16,2023-02-16,Superficial,1,Bosque de Encino-Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-02-18,2023-02-18,Superficial,2,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-02-19,2023-02-19,Superficial,"1,5",Bosque de Pino
+Puebla,Acajete,Intencional,2023-02-20,2023-02-20,Superficial,"0,5",Bosque de Pino
+Puebla,Acajete,Intencional,2023-02-21,2023-02-21,Superficial,4,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-02-25,2023-02-25,Superficial,4,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-02-26,2023-02-26,Superficial,6,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades agricolas,2023-02-28,2023-02-28,Superficial,7,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades agricolas,2023-03-02,2023-03-02,Superficial,3,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades pecuarias,2023-03-04,2023-03-04,Superficial,"2,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades pecuarias,2023-03-04,2023-03-04,Superficial,9,Bosque de Pino
+Puebla,Acajete,Intencional,2023-03-04,2023-03-04,Superficial,"4,7",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-03-06,2023-03-06,Superficial,"1,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades pecuarias,2023-03-07,2023-03-07,Superficial,6,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades agricolas,2023-03-07,2023-03-08,Superficial,6,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades agricolas,2023-03-09,2023-03-09,Superficial,1,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades pecuarias,2023-03-10,2023-03-10,Superficial,3,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades pecuarias,2023-03-10,2023-03-10,Superficial,13,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades pecuarias,2023-03-11,2023-03-11,Superficial,1,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-03-15,2023-03-15,Superficial,1,Bosque de Pino
+Puebla,Puebla,Intencional,2023-03-21,2023-03-21,Superficial,1,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades pecuarias,2023-03-22,2023-03-23,Superficial,39,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-03-23,2023-03-23,Superficial,"1,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades pecuarias,2023-03-25,2023-03-25,Superficial,"1,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-03-27,2023-03-27,Superficial,5,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Desconocidas,2023-03-27,2023-03-27,Superficial,3,Bosque de Pino
+Puebla,Amozoc,Cazadores,2023-03-31,2023-03-31,Superficial,"0,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-04-03,2023-04-03,Superficial,3,Bosque de Pino
+Puebla,Acajete,Intencional,2023-04-04,2023-04-04,Superficial,"1,5",Bosque de Pino-Encino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-04-04,2023-04-04,Superficial,6,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-04-07,2023-04-07,Superficial,5,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-04-15,2023-04-15,Superficial,"5,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-04-24,2023-04-24,Superficial,12,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-04-26,2023-04-26,Superficial,2,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-04-28,2023-04-28,Superficial,"2,5",Bosque de Pino
+Puebla,Puebla,Intencional,2023-04-28,2023-04-28,Superficial,3,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-04-29,2023-04-29,Superficial,1,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-04-30,2023-04-30,Superficial,"4,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-04-29,2023-04-30,Superficial,100,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-05-01,2023-05-01,Superficial,"4,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-05-05,2023-05-06,Superficial,"12,5",Bosque de Pino
+Puebla,Acajete,Desconocidas,2023-05-06,2023-05-06,Superficial,"21,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-05-08,2023-05-08,Superficial,"2,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-05-08,2023-05-08,Superficial,1,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2023-06-13,2023-06-13,Superficial,6,Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2023-01-18,2023-01-18,Superficial,"0,808",Bosque de Pino-Encino
+Tlaxcala,Huamantla,Fogatas,2023-01-19,2023-01-20,Superficial,"1,854",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2023-01-19,2023-01-19,Superficial,"1,073",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2023-01-21,2023-01-21,Superficial,"0,215",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Actividades pecuarias,2023-01-26,2023-01-26,Superficial,"0,234",Bosque de Encino-Pino
+Tlaxcala,Huamantla,Actividades pecuarias,2023-01-28,2023-01-28,Superficial,"3,474",Bosque de Pino
+Tlaxcala,Huamantla,Actividades pecuarias,2023-01-28,2023-01-28,Superficial,"2,822",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades agricolas,2023-01-28,2023-01-28,Superficial,"5,259",Bosque de Pino
+Tlaxcala,Ixtenco,Actividades pecuarias,2023-01-31,2023-01-31,Superficial,"0,608",Bosque de Pino
+Tlaxcala,Teolocholco,Otras actividades productivas,2023-02-01,2023-02-01,Superficial,"0,264",Bosque de Pino-Encino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2023-02-03,2023-02-03,Superficial,"0,875",Bosque de Pino
+Tlaxcala,Huamantla,Actividades pecuarias,2023-02-04,2023-02-04,Superficial,"1,103",Bosque de Pino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Actividades agricolas,2023-02-05,2023-02-05,Superficial,"0,401",Bosque de Encino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2023-02-07,2023-02-07,Superficial,"2,015",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2023-02-07,2023-02-07,Superficial,"0,797",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Intencional,2023-02-08,2023-02-08,Superficial,"6,351",Bosque de Pino-Encino
+Tlaxcala,Huamantla,Intencional,2023-02-10,2023-02-10,Superficial,"0,345",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2023-02-12,2023-02-12,Superficial,"0,213",Bosque de Pino
+Tlaxcala,Huamantla,Intencional,2023-02-15,2023-02-15,Superficial,"0,444",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades agricolas,2023-02-15,2023-02-15,Superficial,"5,728",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Intencional,2023-02-15,2023-02-15,Superficial,"5,878",Bosque de Encino
+Tlaxcala,Huamantla,Actividades pecuarias,2023-02-15,2023-02-15,Superficial,"0,712",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2023-02-16,2023-02-16,Superficial,"5,139",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades agricolas,2023-02-17,2023-02-17,Superficial,"2,359",Bosque de Encino-Pino
+Tlaxcala,Huamantla,Intencional,2023-02-18,2023-02-18,Superficial,"1,41",Bosque de Pino
+Tlaxcala,Huamantla,Intencional,2023-02-18,2023-02-18,Superficial,"0,251",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Intencional,2023-02-18,2023-02-18,Superficial,"0,509",Bosque de Encino-Pino
+Tlaxcala,Chiautempan,Fogatas,2023-02-18,2023-02-18,Superficial,"0,481",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2023-02-18,2023-02-19,Superficial,"16,865",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades agricolas,2023-02-19,2023-02-19,Superficial,"0,924",Bosque de Pino
+Tlaxcala,Chiautempan,Fogatas,2023-02-20,2023-02-20,Superficial,"0,373",Bosque de Pino
+Tlaxcala,Ixtenco,Intencional,2023-02-20,2023-02-20,Superficial,"3,573",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades agricolas,2023-02-20,2023-02-20,Superficial,"7,628",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2023-02-20,2023-02-20,Superficial,"1,035",Bosque de Pino
+Tlaxcala,Teolocholco,Intencional,2023-02-21,2023-02-21,Superficial,"0,884",Bosque de Pino
+Tlaxcala,Teolocholco,Intencional,2023-02-22,2023-02-22,Superficial,"0,319",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades pecuarias,2023-02-25,2023-02-25,Superficial,"0,26",Bosque de Pino-Encino
+Tlaxcala,Chiautempan,Intencional,2023-02-27,2023-02-27,Superficial,"0,509",Bosque de Pino
+Tlaxcala,Teolocholco,Fogatas,2023-02-28,2023-02-28,Superficial,"0,229",Bosque de Pino
+Tlaxcala,Teolocholco,Intencional,2023-02-28,2023-02-28,Superficial,"0,579",Bosque de Pino
+Tlaxcala,Teolocholco,Intencional,2023-02-28,2023-02-28,Superficial,"6,129",Bosque de Pino-Encino
+Tlaxcala,Chiautempan,Actividades agricolas,2023-02-28,2023-02-28,Superficial,"2,319",Bosque de Pino
+Tlaxcala,Chiautempan,Intencional,2023-02-28,2023-02-28,Superficial,"0,761",Bosque de Encino-Pino
+Tlaxcala,Huamantla,Intencional,2023-03-01,2023-03-01,Superficial,"1,869",Bosque de Pino
+Tlaxcala,Teolocholco,Intencional,2023-03-01,2023-03-01,Superficial,"1,331",Bosque de Pino
+Tlaxcala,Teolocholco,Fogatas,2023-03-02,2023-03-02,Superficial,"0,544",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2023-03-02,2023-03-02,Superficial,"0,802",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2023-03-03,2023-03-03,Superficial,"1,34",Bosque de Pino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Actividades agricolas,2023-03-04,2023-03-04,Superficial,"4,217",Bosque de Pino-Encino
+Tlaxcala,Huamantla,Intencional,2023-03-04,2023-03-04,Superficial,"0,288",Bosque de Pino
+Tlaxcala,Chiautempan,Fogatas,2023-03-04,2023-03-04,Superficial,"8,883",Bosque de Pino
+Tlaxcala,Teolocholco,Intencional,2023-03-05,2023-03-05,Superficial,"2,264",Bosque de Pino-Encino
+Tlaxcala,Chiautempan,Actividades agricolas,2023-03-05,2023-03-05,Superficial,"4,838",Bosque de Pino
+Tlaxcala,Chiautempan,Intencional,2023-03-06,2023-03-06,Superficial,"3,901",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2023-03-06,2023-03-06,Superficial,"0,601",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2023-03-06,2023-03-07,Superficial,"84,41",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-03-07,2023-03-07,Superficial,"3,002",Bosque de Pino-Encino
+Tlaxcala,Chiautempan,Intencional,2023-03-08,2023-03-08,Superficial,"7,394",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-03-08,2023-03-08,Superficial,"2,34",Bosque de Pino-Encino
+Tlaxcala,Chiautempan,Intencional,2023-03-07,2023-03-07,Superficial,"0,915",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-03-08,2023-03-08,Superficial,"4,07",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-03-08,2023-03-08,Superficial,"3,485",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-03-08,2023-03-08,Superficial,"2,482",Bosque de Pino-Encino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2023-03-08,2023-03-09,Superficial,"11,488",Bosque de Pino
+Tlaxcala,Huamantla,Actividades agricolas,2023-03-09,2023-03-09,Superficial,"0,881",Bosque de Pino
+Tlaxcala,Huamantla,Intencional,2023-03-09,2023-03-09,Superficial,"0,197",Bosque de Pino
+Tlaxcala,Huamantla,Intencional,2023-03-11,2023-03-11,Superficial,"12,158",Bosque de Pino
+Tlaxcala,San Jose Teacalco,Actividades agricolas,2023-03-11,2023-03-11,Superficial,"2,486",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades agricolas,2023-03-12,2023-03-12,Superficial,"15,563",Bosque de Pino-Encino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Actividades pecuarias,2023-03-20,2023-03-20,Superficial,"4,334",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2023-03-21,2023-03-21,Superficial,"0,343",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-03-22,2023-03-22,Superficial,"0,435",Bosque de Pino-Encino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-03-23,2023-03-23,Superficial,"9,594",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-03-23,2023-03-23,Superficial,"1,493",Bosque de Pino-Encino
+Tlaxcala,Huamantla,Intencional,2023-03-23,2023-03-23,Superficial,"0,903",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-03-23,2023-03-23,Superficial,"0,546",Bosque de Pino-Encino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-03-25,2023-03-25,Superficial,"1,023",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2023-03-26,2023-03-26,Superficial,"0,525",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-03-26,2023-03-26,Superficial,"6,834",Bosque de Pino
+Tlaxcala,Huamantla,Intencional,2023-03-27,2023-03-27,Superficial,"6,041",Bosque de Pino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Intencional,2023-03-29,2023-03-29,Superficial,"0,632",Bosque de Encino-Pino
+Tlaxcala,Huamantla,Intencional,2023-03-30,2023-03-30,Superficial,"32,045",Bosque de Pino
+Tlaxcala,Huamantla,Intencional,2023-03-31,2023-03-31,Superficial,"1,572",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2023-04-02,2023-04-02,Superficial,"1,406",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-04-02,2023-04-02,Superficial,"2,571",Bosque de Pino-Encino
+Tlaxcala,Chiautempan,Intencional,2023-04-03,2023-04-03,Superficial,"0,904",Bosque de Encino-Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2023-04-03,2023-04-05,Superficial,"110,233",Bosque de Encino-Pino
+Tlaxcala,Chiautempan,Intencional,2023-04-03,2023-04-04,Superficial,"25,744",Bosque de Encino-Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-04-03,2023-04-03,Superficial,"4,695",Bosque de Pino
+Tlaxcala,Chiautempan,Intencional,2023-04-04,2023-04-04,Superficial,"15,184",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades agricolas,2023-04-04,2023-04-04,Superficial,"1,496",Bosque de Pino
+Tlaxcala,Teolocholco,Intencional,2023-04-04,2023-04-04,Superficial,"10,058",Bosque de Encino-Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2023-04-04,2023-04-04,Superficial,"4,367",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2023-04-06,2023-04-06,Superficial,"1,05",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades agricolas,2023-04-07,2023-04-07,Superficial,"0,815",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-04-07,2023-04-07,Superficial,"3,829",Bosque de Pino-Encino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-04-06,2023-04-06,Superficial,"4,821",Bosque de Pino
+Tlaxcala,Teolocholco,Fogatas,2023-04-09,2023-04-09,Superficial,"1,316",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2023-04-14,2023-04-14,Superficial,"7,638",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2023-04-15,2023-04-15,Superficial,"2,761",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-04-15,2023-04-15,Superficial,"4,871",Bosque de Pino
+Tlaxcala,Chiautempan,Intencional,2023-04-18,2023-04-18,Superficial,"0,95",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-04-19,2023-04-19,Superficial,"0,435",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2023-04-19,2023-04-19,Superficial,"0,94",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-04-20,2023-04-20,Superficial,"1,221",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2023-04-22,2023-04-22,Superficial,"3,191",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2023-04-23,2023-04-23,Superficial,"1,566",Bosque de Pino
+Tlaxcala,Teolocholco,Fogatas,2023-04-27,2023-04-27,Superficial,"3,235",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-04-28,2023-04-28,Superficial,"12,52",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2023-04-28,2023-04-28,Superficial,"1,014",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Intencional,2023-04-29,2023-04-29,Superficial,"7,448",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2023-04-29,2023-04-29,Superficial,"27,158",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2023-04-29,2023-04-29,Superficial,"0,451",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2023-04-30,2023-04-30,Superficial,"1,024",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2023-04-30,2023-05-01,Superficial,"1,786",Bosque de Oyamel
+Tlaxcala,Huamantla,Intencional,2023-05-01,2023-05-01,Superficial,"0,932",Bosque de Pino
+Tlaxcala,Teolocholco,Intencional,2023-05-01,2023-05-01,Superficial,"5,384",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Intencional,2023-05-02,2023-05-02,Superficial,"5,745",Bosque de Pino
+Tlaxcala,Teolocholco,Intencional,2023-05-02,2023-05-02,Superficial,"6,325",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2023-05-02,2023-05-02,Superficial,"0,311",Bosque de Pino
+Tlaxcala,Teolocholco,Intencional,2023-05-03,2023-05-03,Superficial,"4,583",Bosque de Pino-Encino
+Tlaxcala,Chiautempan,Fogatas,2023-05-05,2023-05-05,Superficial,"0,724",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Intencional,2023-05-06,2023-05-06,Superficial,"2,085",Bosque de Pino
+Tlaxcala,Teolocholco,Intencional,2023-05-07,2023-05-07,Superficial,"0,755",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2023-05-20,2023-05-20,Superficial,"2,1",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2023-06-09,2023-06-09,Superficial,"2,155",Bosque de Pino-Encino
+Tlaxcala,Huamantla,Desconocidas,2023-06-20,2023-06-20,Superficial,"16,631",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2023-06-20,2023-06-20,Superficial,"1,096",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Residuos de aprovechamiento forestal,2023-06-22,2023-06-22,Superficial,"0,232",Bosque de Pino
+Tlaxcala,Chiautempan,Intencional,2023-06-26,2023-06-26,Superficial,"0,975",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2024-02-04,2024-02-06,Superficial,51,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2024-02-05,2024-02-06,Superficial,"41,6065",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Desconocidas,2024-02-07,2024-02-07,Superficial,"1,5",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Desconocidas,2024-02-08,2024-02-08,Superficial,"1,5",Bosque de Pino
+Puebla,Acajete,Intencional,2024-02-14,2024-02-14,Superficial,3,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2024-02-28,2024-02-29,Superficial,11,Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades pecuarias,2024-03-07,2024-03-07,Superficial,"1,6213",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades agricolas,2024-03-08,2024-03-08,Superficial,"1,0529",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades pecuarias,2024-03-10,2024-03-10,Superficial,"5,9054",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades pecuarias,2024-03-08,2024-03-10,Superficial,"22,3842",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2024-03-12,2024-03-12,Superficial,"4,5035",Bosque de Pino
+Puebla,Puebla,Intencional,2024-03-13,2024-03-14,Superficial,"14,8644",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2024-03-14,2024-03-17,Superficial,"300,5532",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2024-03-16,2024-03-20,Superficial,"73,7",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Fogatas,2024-03-18,2024-03-19,Superficial,"1,3948",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2024-03-18,2024-03-18,Superficial,"0,75",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades agricolas,2024-03-24,2024-03-24,Superficial,"2,34",Bosque de Pino
+Puebla,Puebla,Intencional,2024-03-25,2024-03-29,Superficial,"50,522",Bosque de Pino-Encino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2024-03-26,2024-03-26,Superficial,"2,2",Bosque de Pino
+Puebla,Puebla,Intencional,2024-03-27,2024-03-27,Superficial,"13,7",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2024-03-31,2024-04-02,Superficial,"79,6142",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2024-04-02,2024-04-02,Superficial,"1,9495",Bosque de Pino
+Puebla,Puebla,Intencional,2024-04-11,2024-04-11,Superficial,"2,1964",Bosque de Encino-Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2024-04-03,2024-04-03,Superficial,"14,1265",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2024-04-04,2024-04-04,Superficial,"0,75",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2024-04-06,2024-04-06,Superficial,"2,39",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2024-04-09,2024-04-09,Superficial,"2,15",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2024-04-09,2024-04-09,Superficial,"1,6817",Bosque de Pino
+Puebla,Puebla,Intencional,2024-04-13,2024-04-18,Superficial,"417,4084",Bosque de Pino
+Puebla,Acajete,Actividades pecuarias,2024-04-15,2024-04-17,Superficial,"108,6803",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades pecuarias,2024-04-16,2024-04-16,Superficial,"8,5",Bosque de Pino
+Tlaxcala,Huamantla,Intencional,2024-01-14,2024-01-14,Superficial,"0,6692",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2024-01-17,2024-01-17,Superficial,"1,6884",Bosque de Pino
+Tlaxcala,Chiautempan,Intencional,2024-01-18,2024-01-18,Superficial,"0,5507",Bosque de Pino
+Tlaxcala,Chiautempan,Intencional,2024-01-26,2024-01-26,Superficial,"0,9561",Bosque de Encino-Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades agricolas,2024-02-05,2024-02-05,Superficial,"0,426",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades agricolas,2024-02-05,2024-02-05,Superficial,"5,0867",Bosque de Pino
+Tlaxcala,Chiautempan,Intencional,2024-02-08,2024-02-08,Superficial,"2,4325",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2024-02-08,2024-02-08,Superficial,"1,5081",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-02-11,2024-02-11,Superficial,"2,355",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2024-02-14,2024-02-14,Superficial,"0,4138",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2024-02-22,2024-02-22,Superficial,"10,7594",Bosque de Pino-Encino
+Tlaxcala,Mazatecochco de Jose Maria Morelos,Intencional,2024-02-27,2024-02-27,Superficial,"8,9983",Bosque de Encino
+Tlaxcala,Chiautempan,Actividades agricolas,2024-02-28,2024-02-28,Superficial,"4,7172",Bosque de Pino
+Tlaxcala,Huamantla,Actividades agricolas,2024-02-29,2024-02-29,Superficial,"1,8362",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-03-05,2024-03-05,Superficial,"0,8384",Bosque de Pino-Encino
+Tlaxcala,San Pablo del Monte,Intencional,2024-03-05,2024-03-05,Superficial,"4,8434",Bosque de Encino-Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2024-03-05,2024-03-05,Superficial,"0,4527",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-03-06,2024-03-06,Superficial,"0,6777",Bosque de Pino-Encino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2024-03-06,2024-03-06,Superficial,"2,9678",Bosque de Pino-Encino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-03-07,2024-03-07,Superficial,"6,1092",Bosque de Pino
+Tlaxcala,Huamantla,Actividades pecuarias,2024-03-07,2024-03-07,Superficial,"0,6955",Bosque de Pino
+Tlaxcala,Chiautempan,Intencional,2024-03-09,2024-03-09,Superficial,"0,457",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2024-03-09,2024-03-09,Superficial,"2,3494",Bosque de Pino
+Tlaxcala,Chiautempan,Intencional,2024-03-10,2024-03-10,Superficial,"7,656",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades agricolas,2024-03-10,2024-03-10,Superficial,"4,5737",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-03-10,2024-03-10,Superficial,"0,6774",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-03-10,2024-03-11,Superficial,"5,8377",Bosque de Pino
+Tlaxcala,Teolocholco,Fogatas,2024-03-11,2024-03-11,Superficial,"0,6683",Bosque de Pino
+Tlaxcala,Chiautempan,Intencional,2024-03-11,2024-03-11,Superficial,"3,3002",Bosque de Pino
+Tlaxcala,Chiautempan,Desconocidas,2024-03-12,2024-03-12,Superficial,"1,6647",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2024-03-15,2024-03-15,Superficial,"4,3248",Bosque de Pino-Encino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2024-03-16,2024-03-16,Superficial,"3,3476",Bosque de Pino-Encino
+Tlaxcala,Chiautempan,Actividades agricolas,2024-03-16,2024-03-16,Superficial,"16,394",Bosque de Pino
+Tlaxcala,Huamantla,Intencional,2024-03-18,2024-03-18,Superficial,"0,4845",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2024-03-18,2024-03-18,Superficial,"11,2991",Bosque de Pino
+Tlaxcala,Chiautempan,Intencional,2024-03-18,2024-03-18,Superficial,"5,4112",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2024-03-19,2024-03-19,De copa,"15,5484",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2024-03-19,2024-03-19,Superficial,"1,7839",Bosque de Pino
+Tlaxcala,Contla de Juan Cuamatzi,Actividades agricolas,2024-03-19,2024-03-19,Superficial,"1,7185",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2024-03-20,2024-03-20,Superficial,"0,7611",Bosque de Pino
+Tlaxcala,Huamantla,Intencional,2024-03-21,2024-03-21,Superficial,"0,648",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2024-03-21,2024-03-21,Superficial,"33,0727",Bosque de Pino-Encino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-03-22,2024-03-22,Superficial,"1,2768",Bosque de Pino
+Tlaxcala,Chiautempan,Intencional,2024-03-22,2024-03-23,Superficial,"47,0648",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2024-03-22,2024-03-22,Superficial,"5,286",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2024-03-22,2024-03-22,Superficial,"0,4045",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2024-03-22,2024-03-22,Superficial,"7,0953",Bosque de Pino-Encino
+Tlaxcala,Teolocholco,Actividades agricolas,2024-03-23,2024-03-23,Superficial,"23,0106",Bosque de Pino
+Tlaxcala,Huamantla,Intencional,2024-03-23,2024-03-23,Superficial,"1,9294",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-03-23,2024-03-24,Superficial,"8,6205",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2024-03-24,2024-03-24,Superficial,"3,0395",Bosque de Pino-Encino
+Tlaxcala,Teolocholco,Intencional,2024-03-24,2024-03-24,Superficial,"1,2345",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades agricolas,2024-03-24,2024-03-24,Superficial,"5,0626",Bosque de Pino
+Tlaxcala,Teolocholco,Intencional,2024-03-25,2024-03-25,Superficial,"10,46",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2024-03-25,2024-03-26,Superficial,"3,3738",Bosque de Oyamel
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2024-03-25,2024-03-25,Superficial,"1,8444",Bosque de Encino-Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2024-03-26,2024-03-26,Superficial,"7,2815",Bosque de Pino
+Tlaxcala,Teolocholco,Intencional,2024-03-26,2024-03-26,Superficial,"8,6921",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-03-27,2024-03-27,Superficial,"3,1362",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2024-03-28,2024-03-28,Superficial,"0,3595",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2024-03-28,2024-03-28,Superficial,"0,6083",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2024-03-29,2024-03-29,Superficial,"9,2735",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2024-03-26,2024-03-26,Superficial,"1,9799",Bosque de Pino
+Tlaxcala,Teolocholco,Intencional,2024-03-29,2024-03-29,Superficial,"0,467",Bosque de Pino
+Tlaxcala,Teolocholco,Intencional,2024-03-29,2024-03-29,Superficial,"8,5361",Bosque de Pino
+Tlaxcala,Teolocholco,Intencional,2024-03-29,2024-03-29,Superficial,"0,9638",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2024-03-30,2024-03-30,Superficial,"0,6393",Bosque de Pino
+Tlaxcala,Teolocholco,Intencional,2024-03-31,2024-03-31,Superficial,"1,1829",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2024-04-01,2024-04-01,Superficial,"2,7243",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-04-01,2024-04-01,Superficial,"1,6328",Bosque de Pino-Encino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2024-04-02,2024-04-02,Superficial,"0,3367",Bosque de Pino
+Tlaxcala,San Jose Teacalco,Fogatas,2024-04-03,2024-04-03,Superficial,"1,2673",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2024-04-03,2024-04-03,Superficial,"0,5536",Bosque de Pino
+Tlaxcala,Huamantla,Fogatas,2024-04-03,2024-04-03,Superficial,"2,7511",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2024-04-04,2024-04-04,Superficial,"4,5704",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2024-04-04,2024-04-04,Superficial,"3,8104",Bosque de Pino
+Tlaxcala,Teolocholco,Fogatas,2024-04-04,2024-04-04,Superficial,"2,582",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Intencional,2024-03-31,2024-04-05,Superficial,"2,1445",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-04-07,2024-04-07,Superficial,"0,4598",Bosque de Pino-Encino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-04-08,2024-04-08,Superficial,"0,5112",Bosque de Oyamel
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2024-04-08,2024-04-08,Superficial,"0,4152",Bosque de Pino
+Tlaxcala,Huamantla,Intencional,2024-04-08,2024-04-08,Superficial,"6,5611",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-04-09,2024-04-09,Superficial,"0,2325",Bosque de Oyamel
+Tlaxcala,Chiautempan,Actividades agricolas,2024-04-10,2024-04-10,Superficial,"30,9172",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-04-11,2024-04-11,Superficial,"4,3073",Bosque de Pino
+Tlaxcala,Huamantla,Desconocidas,2024-04-11,2024-04-12,Superficial,"15,0667",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-04-12,2024-04-12,Superficial,"0,9408",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2024-04-13,2024-04-13,Superficial,"3,3321",Bosque de Pino-Encino
+Tlaxcala,Chiautempan,Desconocidas,2024-04-14,2024-04-14,Superficial,"13,3878",Bosque de Encino-Pino
+Tlaxcala,Huamantla,Intencional,2024-04-15,2024-04-16,Superficial,"56,4484",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-04-14,2024-04-14,Superficial,"0,9106",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-04-14,2024-04-14,Superficial,"8,3998",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2024-04-16,2024-04-16,Superficial,"0,3843",Bosque de Pino
+Tlaxcala,San Jose Teacalco,Desconocidas,2024-04-16,2024-04-16,Superficial,"3,3014",Bosque de Pino
+Tlaxcala,Contla de Juan Cuamatzi,Actividades agricolas,2024-04-17,2024-04-17,Superficial,"20,6465",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-04-19,2024-04-19,Superficial,"1,1324",Bosque de Oyamel
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2024-04-19,2024-04-19,Superficial,"1,0222",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-04-18,2024-04-18,Superficial,"0,287",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2024-04-25,2024-04-25,Superficial,"5,8274",Bosque de Pino
+Tlaxcala,Chiautempan,Intencional,2024-05-03,2024-05-04,Superficial,"7,4084",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-05-13,2024-05-13,Superficial,"11,2998",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2024-05-14,2024-05-14,Superficial,"14,8018",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2024-05-31,2024-05-31,Superficial,"2,1121",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2024-06-02,2024-06-02,Superficial,"2,2204",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2024-06-08,2024-06-08,Superficial,"2,8263",Bosque de Encino-Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2024-06-11,2024-06-11,Superficial,"0,69",Bosque de Pino
+Tlaxcala,Chiautempan,Fogatas,2024-06-12,2024-06-12,Superficial,"0,5935",Bosque de Pino
+Tlaxcala,Huamantla,Intencional,2024-06-18,2024-06-18,Superficial,"5,9958",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2024-12-14,2024-12-14,Superficial,"1,5021",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Desconocidas,2024-12-30,2024-12-30,Superficial,"0,2934",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2025-01-04,2025-01-04,Superficial,"0,642",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades agricolas,2025-01-31,2025-01-31,Superficial,"1,7861",Bosque de Pino
+Puebla,Puebla,Desconocidas,2025-02-02,2025-02-02,Superficial,"1,4877",Bosque de Pino
+Puebla,Puebla,Otras actividades productivas,2025-04-03,2025-04-04,Superficial,"2,7332",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Desconocidas,2025-04-11,2025-04-11,Superficial,"2,5966",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades agricolas,2025-04-12,2025-04-12,Superficial,"5,6175",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades agricolas,2025-04-13,2025-04-13,Superficial,"9,7171",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Actividades agricolas,2025-04-13,2025-04-13,Superficial,"2,6653",Bosque de Pino-Encino
+Puebla,Tepatlaxco de Hidalgo,Desconocidas,2025-04-14,2025-04-14,Superficial,"12,8223",Bosque de Pino
+Puebla,Tepatlaxco de Hidalgo,Intencional,2025-04-15,2025-04-15,Superficial,"0,9975",Bosque de Pino
+Puebla,Puebla,Actividades pecuarias,2025-04-28,2025-04-28,Superficial,"41,1091",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades agricolas,2025-03-06,2025-03-06,Superficial,"3,95",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2025-03-08,2025-03-08,Superficial,"3,6937",Bosque de Encino-Pino
+Tlaxcala,Teolocholco,Actividades agricolas,2025-03-09,2025-03-09,Superficial,"0,5846",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2025-03-09,2025-03-09,Superficial,"0,9111",Bosque de Encino-Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2025-03-11,2025-03-11,Superficial,"1,5297",Bosque de Encino-Pino
+Tlaxcala,Chiautempan,Fogatas,2025-03-13,2025-03-13,Superficial,"4,1797",Bosque de Encino-Pino
+Tlaxcala,Chiautempan,Intencional,2025-03-15,2025-03-15,Superficial,"12,4875",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2025-03-17,2025-03-17,Superficial,"5,6641",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2025-03-17,2025-03-19,Superficial,"4,6546",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2025-03-19,2025-03-19,Superficial,"36,1857",Bosque de Pino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Actividades agricolas,2025-03-24,2025-03-24,Superficial,"2,5683",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2025-03-27,2025-03-27,Superficial,"1,2806",Bosque de Pino
+Tlaxcala,Chiautempan,Fogatas,2025-03-28,2025-03-28,Superficial,"0,5921",Bosque de Encino-Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2025-03-29,2025-03-29,Superficial,"1,1837",Bosque de Pino
+Tlaxcala,Chiautempan,Intencional,2025-03-30,2025-03-30,Superficial,"2,5015",Bosque de Pino
+Tlaxcala,Chiautempan,Intencional,2025-03-31,2025-03-31,Superficial,"3,8462",Bosque de Pino
+Tlaxcala,Huamantla,Fogatas,2025-03-31,2025-03-31,Superficial,"2,3694",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades agricolas,2025-03-31,2025-03-31,Superficial,"5,7377",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2025-04-02,2025-04-02,Superficial,"0,3552",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2025-04-02,2025-04-02,Superficial,"12,5873",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2025-04-03,2025-04-03,Superficial,"7,1312",Bosque de Encino-Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2025-04-05,2025-04-05,Superficial,"0,8334",Bosque de Oyamel
+Tlaxcala,Chiautempan,Intencional,2025-04-11,2025-04-11,Superficial,"5,9201",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2025-04-11,2025-04-11,Superficial,"3,8138",Bosque de Encino-Pino
+Tlaxcala,Chiautempan,Intencional,2025-04-12,2025-04-12,Superficial,"2,7905",Bosque de Encino-Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2025-04-13,2025-04-13,Superficial,"28,9091",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades agricolas,2025-04-12,2025-04-12,Superficial,"30,6038",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades agricolas,2025-04-12,2025-04-12,Superficial,"8,0164",Bosque de Encino-Pino
+Tlaxcala,Chiautempan,Intencional,2025-04-12,2025-04-13,Superficial,"1,565",Bosque de Encino-Pino
+Tlaxcala,Acuamanala de Miguel Hidalgo,Fogatas,2025-04-14,2025-04-14,Superficial,"3,9837",Bosque de Pino-Encino
+Tlaxcala,Chiautempan,Intencional,2025-04-14,2025-04-14,Superficial,"3,5528",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Fogatas,2025-04-14,2025-04-14,Superficial,"9,3054",Bosque de Pino
+Tlaxcala,Chiautempan,Actividades agricolas,2025-04-14,2025-04-16,Superficial,"97,9922",Bosque de Pino
+Tlaxcala,Chiautempan,Intencional,2025-04-14,2025-04-14,Superficial,"0,9212",Bosque de Pino
+Tlaxcala,Teolocholco,Actividades agricolas,2025-04-14,2025-04-14,Superficial,"4,8549",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Otras actividades productivas,2025-04-14,2025-04-15,Superficial,"3,6704",Bosque de Pino
+Tlaxcala,Teolocholco,Intencional,2025-04-16,2025-04-16,Superficial,"2,2015",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Actividades agricolas,2025-04-16,2025-04-16,Superficial,"35,2417",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2025-04-16,2025-04-16,Superficial,"1,4818",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Intencional,2025-04-17,2025-04-17,Superficial,"2,0001",Bosque de Pino
+Tlaxcala,San Francisco Tetlanohcan,Fogatas,2025-04-21,2025-04-21,Superficial,"0,262",Bosque de Pino
+Tlaxcala,San Jose Teacalco,Naturales,2025-05-17,2025-05-17,Superficial,"0,994",Bosque de Pino
+Tlaxcala,Huamantla,Intencional,2025-05-19,2025-05-19,Superficial,"2,0646",Bosque de Pino
+Tlaxcala,San Pablo del Monte,Desconocidas,2025-04-15,2025-04-15,Superficial,"3,2982",Bosque de Pino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2025-08-19,2025-08-19,Superficial,"0,4446",Bosque de Pino-Encino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2025-11-19,2025-11-19,Superficial,"1,6382",Bosque de Pino-Encino
+Tlaxcala,Ziltlaltepec de Trinidad Sanchez Santos,Intencional,2025-11-19,2025-11-19,Superficial,"0,3702",Bosque de Pino-Encino
